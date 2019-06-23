@@ -355,7 +355,7 @@ apps/frappe/frappe/templates/includes/login/login.js,Both login and password req
 apps/frappe/frappe/model/naming.py, for {0},لـ {0}
 apps/frappe/frappe/sessions.py,Cache Cleared,مسح ذاكرة التخزين المؤقت
 apps/frappe/frappe/templates/emails/energy_points_summary.html,Energy Points,نقاط الطاقة
-apps/frappe/frappe/core/doctype/user/user.js,Refreshing...,منعش...
+apps/frappe/frappe/core/doctype/user/user.js,Refreshing...,تحديث...
 apps/frappe/frappe/utils/password_strength.py,This is similar to a commonly used password.,هذا مشابه لكلمة المرور شائعة الاستخدام.
 DocType: Energy Point Settings,Last Point Allocation Date,تاريخ تخصيص النقطة الأخيرة
 DocType: DocField,Index,فهرس
