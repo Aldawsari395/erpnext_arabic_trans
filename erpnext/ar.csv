@@ -1,4 +1,4 @@
-apps/erpnext/erpnext/setup/setup_wizard/data/industry_type.py,Pension Funds,صناديق التقاعد
+﻿apps/erpnext/erpnext/setup/setup_wizard/data/industry_type.py,Pension Funds,صناديق التقاعد
 DocType: Supplier Quotation,Rounding Adjustment (Company Currency,التقريب التكيف (عملة الشركة
 apps/erpnext/erpnext/education/doctype/student_group_creation_tool/student_group_creation_tool.py,Course is mandatory in row {0},الدورة إلزامية في الصف {0}
 apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.js,Credit Account,حساب الائتمان
@@ -1736,7 +1736,7 @@ apps/erpnext/erpnext/education/doctype/assessment_plan/assessment_plan.js,Assess
 apps/erpnext/erpnext/public/js/templates/contact_list.html,New Contact,جهة اتصال جديدة
 apps/erpnext/erpnext/selling/page/sales_funnel/sales_funnel.py,Opportunities,الفرص
 apps/erpnext/erpnext/accounts/report/cash_flow/cash_flow.py,Net Cash from Operations,صافي النقد من العمليات
-DocType: Leave Encashment,Leave Encashment,صرف الإجازة
+DocType: Leave Encashment,Leave Encashment,مصروف الإجازة
 apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py,Source warehouse is mandatory for row {0},مستودع المصدر إلزامي للصف {0}
 DocType: Amazon MWS Settings,After Date,بعد التاريخ
 apps/erpnext/erpnext/regional/doctype/gstr_3b_report/gstr_3b_report.html,ITC Available (whether in full op part),مركز التجارة الدولية متاح (سواء في جزء المرجع الكامل)
