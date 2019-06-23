@@ -3580,7 +3580,7 @@ DocType: S3 Backup Settings,eu-west-2,الاتحاد الأوروبي الغرب
 apps/frappe/frappe/integrations/doctype/webhook/webhook.py,Check Request URL,تحقق من طلب URL
 apps/frappe/frappe/public/js/frappe/ui/toolbar/navbar.html,About,حول
 apps/frappe/frappe/config/customization.py,Custom Translations,الترجمات المخصصة
-apps/frappe/frappe/templates/print_formats/standard_macros.html,Sr,الرقم
+apps/frappe/frappe/templates/print_formats/standard_macros.html,number,الرقم
 apps/frappe/frappe/config/settings.py,"Language, Date and Time settings",إعدادات اللغة والتاريخ والوقت
 apps/frappe/frappe/model/document.py,none of,لا شيء من
 DocType: Desktop Icon,Page,صفحة
