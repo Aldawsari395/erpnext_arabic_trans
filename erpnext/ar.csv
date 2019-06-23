@@ -2711,7 +2711,7 @@ DocType: Quality Action,Preventive,وقائي
 DocType: Support Settings,Forum URL,عنوان URL للمنتدى
 apps/erpnext/erpnext/config/hr.py,Employee and Attendance,الموظف والحضور
 apps/erpnext/erpnext/healthcare/doctype/patient/patient.js,Vital Signs,علامات حيوية
-DocType: Academic Term,Academics User,الأكاديمي المستخدم
+DocType: Academic Term,Academics User,حسابات الطلاب
 apps/erpnext/erpnext/stock/doctype/material_request/material_request.js,Get Items from BOM,الحصول على عناصر من BOM
 apps/erpnext/erpnext/selling/doctype/installation_note/installation_note.py,Serial No is mandatory for Item {0},الرقم التسلسلي إلزامي للعنصر {0}
 apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.js,Get Items from Prescriptions,الحصول على عناصر من الوصفات الطبية
