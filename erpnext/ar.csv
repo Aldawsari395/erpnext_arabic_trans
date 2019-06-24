@@ -649,7 +649,7 @@ apps/erpnext/erpnext/selling/doctype/installation_note/installation_note.py,Seri
 apps/erpnext/erpnext/regional/italy/utils.py,Please set Tax ID for the customer '%s',يرجى تعيين معرف الضريبة للعميل &#39;٪ s&#39;
 DocType: Sales Partner,Logo,شعار
 DocType: Leave Type,Include holidays within leaves as leaves,تشمل العطلات داخل أوراق الشجر
-DocType: Shift Assignment,Shift Request,طلب تحويل
+DocType: Shift Assignment,Shift Request,طلب نوبة عمل
 apps/erpnext/erpnext/healthcare/doctype/inpatient_record/inpatient_record.py,"Can not mark Inpatient Record Discharged, there are Unbilled Invoices {0}",لا يمكن تعليم تفريغ سجل المرضى الداخليين ، فهناك فواتير غير مدفوعة {0}
 DocType: QuickBooks Migrator,Scope,نطاق
 DocType: Purchase Invoice Item,Service Stop Date,تاريخ توقف الخدمة
@@ -2976,7 +2976,7 @@ apps/erpnext/erpnext/accounts/report/general_ledger/general_ledger.js,Group By,�
 DocType: Bank Account,Address and Contact,العنوان والاتصال
 DocType: Payment Term,Day(s) after invoice date,يوم (أيام) بعد تاريخ الفاتورة
 DocType: Woocommerce Settings,API consumer secret,سر المستهلك API
-DocType: Shift Assignment,Shift Assignment,تحويل المهمة
+DocType: Shift Assignment,Shift Assignment,مهمة نوبة عمل
 DocType: Maintenance Visit,MAT-MVS-.YYYY.-,MAT-MVS-.YYYY.-
 DocType: Issue,First Responded On,أول رد على
 DocType: Work Order Operation,Estimated Time and Cost,الوقت المقدر والتكلفة
@@ -3126,7 +3126,7 @@ apps/erpnext/erpnext/accounts/report/budget_variance_report/budget_variance_repo
 DocType: Sales Order,Partly Delivered,سلمت جزئيا
 DocType: Item,Maintain Stock,الحفاظ على الأوراق المالية
 DocType: Job Card,Started Time,وقت البدء
-apps/erpnext/erpnext/config/hr.py,Shifts and Fleet Management,التحولات وإدارة الأسطول
+apps/erpnext/erpnext/config/hr.py,Shifts and Fleet Management,نوبات عمل وإدارة المركبات
 DocType: Item,Average time taken by the supplier to deliver,متوسط الوقت الذي يستغرقه المورد للتسليم
 DocType: Stock Entry,Per Transferred,لكل نقل
 DocType: Packing Slip,Indicates that the package is a part of this delivery (Only Draft),يشير إلى أن الحزمة جزء من عملية التسليم هذه (مسودة فقط)
@@ -6107,7 +6107,7 @@ apps/erpnext/erpnext/config/non_profit.py,Chapter information.,معلومات ا
 apps/erpnext/erpnext/hr/utils.py,) for {0},) لـ {0}
 DocType: Sales Invoice Item,References,المراجع
 apps/erpnext/erpnext/stock/report/stock_projected_qty/stock_projected_qty.py,Reserved Qty,الكمية المحجوزة
-DocType: Shift Assignment,Shift Type,تحول نوع
+DocType: Shift Assignment,Shift Type,نوع نوبة عمل
 DocType: Delivery Stop,Delivery Stop,توقف التسليم
 apps/erpnext/erpnext/education/doctype/assessment_result_tool/assessment_result_tool.js,No Result to submit,لا توجد نتيجة للتقديم
 DocType: Loyalty Program,Redemption,فداء
