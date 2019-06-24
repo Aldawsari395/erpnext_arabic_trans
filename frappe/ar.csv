@@ -2194,7 +2194,7 @@ apps/frappe/frappe/core/doctype/communication/communication.js,Reply,الرد
 apps/frappe/frappe/config/integrations.py,Braintree payment gateway settings,إعدادات بوابة الدفع Braintree
 apps/frappe/frappe/email/doctype/newsletter/newsletter.py,Scheduled to send to {0},من المقرر إرساله إلى {0}
 DocType: DocType,"If enabled, changes to the document are tracked and shown in timeline",في حالة التمكين ، يتم تعقب التغييرات التي يتم إجراؤها على المستند وعرضها في المخطط الزمني
-DocType: User,Send Welcome Email,إرسال بريد إلكتروني الترحيب
+DocType: User,Send Welcome Email,إرسال بريد إلكتروني ترحيبي
 DocType: Workflow State,asterisk,النجمة
 apps/frappe/frappe/utils/verified_command.py,This link is invalid or expired. Please make sure you have pasted correctly.,هذا الرابط غير صالح أو منتهي الصلاحية. يرجى التأكد من أنك قد قمت بلصقها بشكل صحيح.
 apps/frappe/frappe/core/doctype/version/version_view.html,New Value,قيمة جديدة
