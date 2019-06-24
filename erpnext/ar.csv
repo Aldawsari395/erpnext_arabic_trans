@@ -4524,7 +4524,7 @@ apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.js,
 DocType: Supplier Scorecard,Per Year,كل سنة
 DocType: Inpatient Record,Admitted Datetime,اعترف وقت
 apps/erpnext/erpnext/accounts/doctype/tax_rule/tax_rule.py,Tax Template is mandatory.,قالب الضرائب إلزامي.
-DocType: Clinical Procedure,Patient,صبور
+DocType: Clinical Procedure,Patient,مريض
 DocType: Timesheet Detail,Costing Amount,تكلف المبلغ
 apps/erpnext/erpnext/stock/doctype/item/item.js,Add / Edit Prices,إضافة / تحرير الأسعار
 apps/erpnext/erpnext/regional/doctype/gstr_3b_report/gstr_3b_report.html,Non-GST outward supplies,اللوازم الخارجية غير ضريبة السلع والخدمات
