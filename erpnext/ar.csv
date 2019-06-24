@@ -6245,7 +6245,7 @@ DocType: Naming Series,Change the starting / current sequence number of an exist
 apps/erpnext/erpnext/config/hr.py,Employee Lifecycle,دورة حياة الموظف
 apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.js,For Quantity must be less than quantity {0},للكمية يجب ان تكون اقل من الكمية {0}
 DocType: Assessment Plan,Assessment Plan,خطة التقييم
-apps/erpnext/erpnext/maintenance/doctype/maintenance_visit/maintenance_visit.js,Warranty Claim,طلب كفالة
+apps/erpnext/erpnext/maintenance/doctype/maintenance_visit/maintenance_visit.js,Warranty Claim,طلب ضمان
 DocType: Company,Date of Incorporation,تاريخ التأسيس
 DocType: Asset,Double Declining Balance,ضعف انخفاض الرصيد
 DocType: Payroll Entry,Validate Attendance,التحقق من الحضور
