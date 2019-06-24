@@ -7025,7 +7025,7 @@ DocType: Account,Stock Adjustment,التعديل الأسهم
 apps/erpnext/erpnext/setup/setup_wizard/data/industry_type.py,Health Care,الرعاىة الصحية
 DocType: Restaurant Table,No of Seats,عدد المقاعد
 apps/erpnext/erpnext/setup/doctype/company/company.js,Delete all the Transactions for this Company,حذف جميع المعاملات لهذه الشركة
-,Lead Details,تفاصيل الرصاص
+,Lead Details,تفاصيل القيادة
 DocType: Service Level Agreement,Default Service Level Agreement,اتفاقية مستوى الخدمة الافتراضية
 apps/erpnext/erpnext/portal/doctype/products_settings/products_settings.py,"Filter Fields Row #{0}: Fieldname <b>{1}</b> must be of type ""Link"" or ""Table MultiSelect""",تصفية حقول الصف # {0}: يجب أن يكون اسم الحقل <b>{1}</b> من النوع &quot;Link&quot; أو &quot;Table MultiSelect&quot;
 DocType: Lead,Suggestions,اقتراحات
