@@ -1122,7 +1122,7 @@ apps/erpnext/erpnext/accounts/doctype/payment_reconciliation/payment_reconciliat
 DocType: Student Report Generation Tool,Total Parents Teacher Meeting,اجتماع أولياء الأمور مع المعلمين
 apps/erpnext/erpnext/manufacturing/doctype/job_card/job_card.py,Row {0} : Operation is required against the raw material item {1},الصف {0}: العملية مطلوبة مقابل عنصر المادة الخام {1}
 apps/erpnext/erpnext/controllers/sales_and_purchase_return.py,Posting timestamp must be after {0},يجب أن يكون الطابع الزمني للنشر بعد {0}
-apps/erpnext/erpnext/selling/doctype/customer/customer.py,Please mention the Lead Name in Lead {0},يرجى ذكر اسم العميل المتوقع في الرصاص {0}
+apps/erpnext/erpnext/selling/doctype/customer/customer.py,Please mention the Lead Name in Lead {0},يرجى ذكر اسم العميل المتوقع في القيادة {0}
 DocType: Employee,You can enter any date manually,يمكنك إدخال أي تاريخ يدويا
 DocType: Stock Reconciliation Item,Stock Reconciliation Item,الأسهم المصالحة البند
 DocType: Item Group,General Settings,الاعدادات العامة
@@ -1657,7 +1657,7 @@ apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standar
 apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py,Row {0}: Please check 'Is Advance' against Account {1} if this is an advance entry.,الصف {0}: يرجى التحقق من &quot;هل تقدم&quot; مقابل الحساب {1} إذا كان هذا إدخالًا مسبقًا.
 DocType: Leave Control Panel,Designation (optional),التعيين (اختياري)
 DocType: Salary Slip,Total Principal Amount,إجمالي المبلغ الرئيسي
-DocType: Opportunity,Customer / Lead Address,عنوان العميل / الرصاص
+DocType: Opportunity,Customer / Lead Address,عنوان العميل / القيادة
 apps/erpnext/erpnext/setup/setup_wizard/data/industry_type.py,Soap & Detergent,الصابون والمنظفات
 ,Purchase Analytics,تحليلات الشراء
 apps/erpnext/erpnext/buying/doctype/request_for_quotation/request_for_quotation.js,Opportunity,فرصة
@@ -1674,7 +1674,7 @@ apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js,No gain or 
 DocType: Timesheet,Total Billable Hours,مجموع الساعات القابلة للفوترة
 DocType: Supplier,Represents Company,يمثل الشركة
 DocType: POS Profile,Company Address,عنوان الشركة
-,Lead Name,اسم الرصاص
+,Lead Name,اسم القيادة
 apps/erpnext/erpnext/config/agriculture.py,Diseases & Fertilizers,الأمراض والأسمدة
 apps/erpnext/erpnext/stock/get_item_details.py,Item {0} must be a Sub-contracted Item,يجب أن يكون العنصر {0} عنصرًا تم التعاقد عليه من الباطن
 DocType: Landed Cost Voucher,Purchase Receipt Items,شراء إيصال البنود
@@ -2251,7 +2251,7 @@ DocType: Soil Texture,Silt Composition (%),تكوين الطمي (٪)
 DocType: Tax Withholding Rate,Tax Withholding Rate,معدل الاستقطاع الضريبي
 DocType: Restaurant,Default Tax Template,قالب الضرائب الافتراضي
 apps/erpnext/erpnext/assets/doctype/asset/asset.js,Transfer Asset,نقل الأصول
-apps/erpnext/erpnext/crm/report/campaign_efficiency/campaign_efficiency.py,Opp/Lead %,مقابل / الرصاص ٪
+apps/erpnext/erpnext/crm/report/campaign_efficiency/campaign_efficiency.py,Opp/Lead %,مقابل / القيادة ٪
 apps/erpnext/erpnext/assets/doctype/asset/asset.py,Please cancel Purchase Invoice {0} first,يرجى إلغاء فاتورة الشراء {0} أولاً
 apps/erpnext/erpnext/manufacturing/doctype/job_card/job_card.js,Complete Job,وظيفة كاملة
 apps/erpnext/erpnext/buying/doctype/request_for_quotation/request_for_quotation.js,Select Possible Supplier,حدد المورد المحتمل
@@ -2353,7 +2353,7 @@ apps/erpnext/erpnext/stock/page/stock_balance/stock_balance.js,Reserved for sub 
 apps/erpnext/erpnext/stock/doctype/item/item.py,Item variant {0} exists with same attributes,متغير العنصر {0} موجود بنفس السمات
 DocType: Member,Membership Type,نوع العضوية
 DocType: Student Leave Application,Will show the student as Present in Student Monthly Attendance Report,سيعرض الطالب على أنه حاضر في تقرير الحضور الشهري للطالب
-apps/erpnext/erpnext/crm/report/prospects_engaged_but_not_converted/prospects_engaged_but_not_converted.js,Minimum Lead Age (Days),الحد الأدنى لسن الرصاص (بالأيام)
+apps/erpnext/erpnext/crm/report/prospects_engaged_but_not_converted/prospects_engaged_but_not_converted.js,Minimum Lead Age (Days),الحد الأدنى لسن القيادة (بالأيام)
 DocType: Shopify Settings,Delivery Note Series,تسليم ملاحظة سلسلة
 apps/erpnext/erpnext/education/doctype/program_enrollment_tool/program_enrollment_tool.py,Mandatory field - Academic Year,مجال إلزامي - السنة الأكاديمية
 DocType: Vehicle Log,Fuel Price,سعر الوقود
@@ -3700,7 +3700,7 @@ DocType: Bank Statement Transaction Settings Item,Bank Data,بيانات الب�
 apps/erpnext/erpnext/education/report/assessment_plan_status/assessment_plan_status.js,Scheduled Upto,المجدولة تصل
 DocType: Quality Goal,Everyday,كل يوم
 DocType: HR Settings,Maintain Billing Hours and Working Hours Same on Timesheet,الحفاظ على ساعات الفواتير وساعات العمل نفسه على الجدول الزمني
-apps/erpnext/erpnext/config/crm.py,Track Leads by Lead Source.,تتبع العروض حسب مصدر الرصاص.
+apps/erpnext/erpnext/config/crm.py,Track Leads by Lead Source.,تتبع العروض حسب مصدر القيادة.
 DocType: Clinical Procedure,Nursing User,تمريض المستخدم
 DocType: Support Settings,Response Key List,قائمة مفتاح الاستجابة
 apps/erpnext/erpnext/accounts/report/accounts_payable/accounts_payable.js,Ageing Based On,الشيخوخة وبناء على
@@ -3922,7 +3922,7 @@ apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.py,Row {0}: sel
 DocType: Stock Settings,Default Return Warehouse,مستودع الإرجاع الافتراضي
 apps/erpnext/erpnext/hr/doctype/training_result/training_result.py,{0} must be submitted,يجب تقديم {0}
 DocType: Project,Estimated Cost,التكلفة المتوقعة
-apps/erpnext/erpnext/crm/report/campaign_efficiency/campaign_efficiency.py,Quot/Lead %,الاقتباس / الرصاص ٪
+apps/erpnext/erpnext/crm/report/campaign_efficiency/campaign_efficiency.py,Quot/Lead %,الاقتباس / القيادة ٪
 apps/erpnext/erpnext/config/non_profit.py,Member information.,معلومات الاعضاء.
 apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.js,Reverse Journal Entry,عكس مجلة الدخول
 apps/erpnext/erpnext/utilities/user_progress.py,Set a sales goal you'd like to achieve for your company.,حدد هدف مبيعات تريد تحقيقه لشركتك.
@@ -4306,7 +4306,7 @@ DocType: Manufacturing Settings,"Update BOM cost automatically via Scheduler, ba
 DocType: Tally Migration,Tally Company,شركة تالي
 DocType: Quiz Question,Quiz Question,مسابقة السؤال
 DocType: Task Depends On,Task Depends On,المهمة تعتمد على
-,Lead Id,معرف الرصاص
+,Lead Id,معرف القيادة
 DocType: Subscription Plan Detail,Subscription Plan Detail,خطة الاشتراك التفاصيل
 apps/erpnext/erpnext/buying/doctype/supplier_scorecard/supplier_scorecard.py,Created {0} scorecards for {1} between: ,تم إنشاء {0} بطاقات النتائج لـ {1} بين:
 apps/erpnext/erpnext/setup/doctype/email_digest/email_digest.py,This Week's Summary,ملخص هذا الأسبوع
@@ -5350,7 +5350,7 @@ DocType: Job Card,Transferred Qty,الكمية المنقولة
 DocType: Healthcare Service Unit,Occupied,احتل
 apps/erpnext/erpnext/accounts/doctype/opening_invoice_creation_tool/opening_invoice_creation_tool.js,Opening {0} Invoice created,فتح {0} تم إنشاء الفاتورة
 apps/erpnext/erpnext/setup/setup_wizard/setup_wizard.py,Failed to create website,فشل في إنشاء موقع الويب
-apps/erpnext/erpnext/selling/page/sales_funnel/sales_funnel.js,Opportunities by lead source,الفرص حسب مصدر الرصاص
+apps/erpnext/erpnext/selling/page/sales_funnel/sales_funnel.js,Opportunities by lead source,الفرص حسب مصدر القيادة
 DocType: Grading Scale Interval,Grading Scale Interval,مقياس الدرجات الفاصل
 DocType: Education Settings,Instructor Records to be created by,سجلات المدرب المراد إنشاؤها بواسطة
 DocType: Student Report Generation Tool,Student Report Generation Tool,أداة إنشاء تقرير الطالب
@@ -5504,7 +5504,7 @@ DocType: Retention Bonus,Bonus Payment Date,تاريخ دفع المكافأة
 DocType: BOM,Operating Cost,تكاليف التشغيل
 apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.js,Select Items based on Delivery Date,حدد العناصر بناءً على تاريخ التسليم
 DocType: Homepage,Tag Line,خط العلامة
-DocType: Customer,From Lead,من الرصاص
+DocType: Customer,From Lead,من القيادة
 apps/erpnext/erpnext/accounts/report/balance_sheet/balance_sheet.py,Unclosed Fiscal Years Profit / Loss (Credit),أرباح / خسائر السنوات المالية غير المغلقة (الائتمان)
 DocType: Agriculture Analysis Criteria,Agriculture,الزراعة
 DocType: Quality Procedure,Parent Procedure,الإجراء الرئيسي
@@ -5627,7 +5627,7 @@ apps/erpnext/erpnext/buying/report/procurement_tracker/procurement_tracker.py,Ac
 DocType: Sales Partner,Sales Partner Name,اسم شريك المبيعات
 apps/erpnext/erpnext/assets/doctype/asset/asset.py,Depreciation Row {0}: Depreciation Start Date is entered as past date,صف الإهلاك {0}: يتم إدخال تاريخ بدء الإهلاك كتاريخ سابق
 DocType: GST HSN Code,Regional,إقليمي
-DocType: Lead,Lead is an Organization,الرصاص منظمة
+DocType: Lead,Lead is an Organization,القيادة منظمة
 apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.js,Please select Charge Type first,يرجى اختيار نوع الشحن أولاً
 DocType: Purchase Receipt Item,Accepted Quantity,الكمية المقبولة
 DocType: Amazon MWS Settings,DE,DE
@@ -5716,7 +5716,7 @@ DocType: Procedure Prescription,Procedure Created,إنشاء الإجراء
 ,Serial No Warranty Expiry,المسلسل لا انتهاء الضمان
 apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py,Against Supplier Invoice {0} dated {1},مقابل فاتورة المورد {0} بتاريخ {1}
 apps/erpnext/erpnext/selling/page/point_of_sale/point_of_sale.js,Change POS Profile,تغيير POS الشخصي
-apps/erpnext/erpnext/utilities/activation.py,Create Lead,إنشاء الرصاص
+apps/erpnext/erpnext/utilities/activation.py,Create Lead,إنشاء القيادة
 apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.js,Supplier &gt; Supplier Type,مورد&gt; نوع المورد
 DocType: Shopify Settings,Default Customer,العميل الافتراضي
 DocType: Payment Entry Reference,Supplier Invoice No,رقم فاتورة المورد
@@ -5972,7 +5972,7 @@ apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.py,"Cannot ensure d
 DocType: Inpatient Record,Discharge Date,تاريخ التفريغ
 ,Open Work Orders,فتح أوامر العمل
 DocType: Crop Cycle,List of diseases detected on the field. When selected it'll automatically add a list of tasks to deal with the disease ,قائمة الأمراض المكتشفة في هذا المجال. عند تحديده ، سيضيف تلقائيًا قائمة من المهام للتعامل مع المرض
-DocType: SMS Center,All Lead (Open),كل الرصاص (مفتوح)
+DocType: SMS Center,All Lead (Open),كل القيادة (مفتوح)
 apps/erpnext/erpnext/education/doctype/student_group_creation_tool/student_group_creation_tool.py,No Student Groups created.,لم يتم إنشاء مجموعات طلاب.
 apps/erpnext/erpnext/utilities/transaction_base.py,Duplicate row {0} with same {1},صف مكرر {0} بنفس {1}
 DocType: Employee,Salary Details,تفاصيل الراتب
@@ -6071,7 +6071,7 @@ DocType: BOM Operation,Operation Time,وقت العملية
 DocType: Asset,Value After Depreciation,القيمة بعد الاستهلاك
 apps/erpnext/erpnext/projects/doctype/project/project.py,Start date of task <b>{0}</b> cannot be less than <b>{1}</b> expected start date <b>{2}</b>,لا يمكن أن يكون تاريخ بدء المهمة <b>{0}</b> أقل من <b>{1}</b> تاريخ البدء المتوقع <b>{2}</b>
 apps/erpnext/erpnext/education/report/assessment_plan_status/assessment_plan_status.py,Remaining,متبق
-apps/erpnext/erpnext/crm/report/campaign_efficiency/campaign_efficiency.py,Lead Count,العد الرصاص
+apps/erpnext/erpnext/crm/report/campaign_efficiency/campaign_efficiency.py,Lead Count,العد القيادة
 apps/erpnext/erpnext/public/js/setup_wizard.js,The name of your company for which you are setting up this system.,اسم شركتك التي تقوم بإعداد هذا النظام من أجلها.
 DocType: Serial No,Out of AMC,خارج AMC
 DocType: Job Opening,"Job profile, qualifications required etc.",ملف الوظيفة والمؤهلات المطلوبة وما إلى ذلك
@@ -6367,7 +6367,7 @@ DocType: Journal Entry,Credit Note,ملاحظة الائتمان
 DocType: Batch,Parent Batch,دفعة الوالدين
 DocType: Payment Reconciliation,Get Unreconciled Entries,الحصول على إدخالات غير متفق عليها
 apps/erpnext/erpnext/hr/doctype/expense_claim/expense_claim.js,Please set the Company,يرجى ضبط الشركة
-DocType: Lead,Lead Type,نوع الرصاص
+DocType: Lead,Lead Type,نوع القيادة
 apps/erpnext/erpnext/controllers/accounts_controller.py,Row #{0}: Posting Date must be same as purchase date {1} of asset {2},الصف # {0}: يجب أن يكون تاريخ الترحيل مطابقًا لتاريخ الشراء {1} للأصل {2}
 DocType: Payment Entry,Difference Amount (Company Currency),مبلغ الفرق (عملة الشركة)
 DocType: Invoice Discounting,Sanctioned,تقرها
@@ -7448,7 +7448,7 @@ DocType: Project,Gross Margin %,هامش الربح الإجمالي ٪
 apps/erpnext/erpnext/accounts/report/bank_reconciliation_statement/bank_reconciliation_statement.py,Bank Statement balance as per General Ledger,رصيد كشف الحساب حسب دفتر الأستاذ العام
 apps/erpnext/erpnext/public/js/setup_wizard.js,Healthcare (beta),الرعاية الصحية (تجريبي)
 DocType: Shopify Settings,Default Warehouse to to create Sales Order and Delivery Note,المستودع الافتراضي لإنشاء أمر المبيعات ومذكرة التسليم
-DocType: Opportunity,Customer / Lead Name,اسم العميل / الرصاص
+DocType: Opportunity,Customer / Lead Name,اسم العميل / القيادة
 DocType: Student,EDU-STU-.YYYY.-,EDU-STU-.YYYY.-
 DocType: Expense Claim Advance,Unclaimed amount,المبلغ غير المطالب به
 apps/erpnext/erpnext/stock/doctype/stock_entry/stock_entry.py,Source and target warehouse cannot be same for row {0},لا يمكن أن يكون المصدر والمستودع نفسه في الصف {0}
