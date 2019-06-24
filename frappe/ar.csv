@@ -355,7 +355,7 @@ apps/frappe/frappe/templates/includes/login/login.js,Both login and password req
 apps/frappe/frappe/model/naming.py, for {0},لـ {0}
 apps/frappe/frappe/sessions.py,Cache Cleared,مسح ذاكرة التخزين المؤقت
 apps/frappe/frappe/templates/emails/energy_points_summary.html,Energy Points,نقاط الطاقة
-apps/frappe/frappe/core/doctype/user/user.js,Refreshing...,منعش...
+apps/frappe/frappe/core/doctype/user/user.js,Refreshing...,...تحديث
 apps/frappe/frappe/utils/password_strength.py,This is similar to a commonly used password.,هذا مشابه لكلمة المرور شائعة الاستخدام.
 DocType: Energy Point Settings,Last Point Allocation Date,تاريخ تخصيص النقطة الأخيرة
 DocType: DocField,Index,فهرس
@@ -2194,7 +2194,7 @@ apps/frappe/frappe/core/doctype/communication/communication.js,Reply,الرد
 apps/frappe/frappe/config/integrations.py,Braintree payment gateway settings,إعدادات بوابة الدفع Braintree
 apps/frappe/frappe/email/doctype/newsletter/newsletter.py,Scheduled to send to {0},من المقرر إرساله إلى {0}
 DocType: DocType,"If enabled, changes to the document are tracked and shown in timeline",في حالة التمكين ، يتم تعقب التغييرات التي يتم إجراؤها على المستند وعرضها في المخطط الزمني
-DocType: User,Send Welcome Email,إرسال بريد إلكتروني الترحيب
+DocType: User,Send Welcome Email,إرسال بريد إلكتروني ترحيبي
 DocType: Workflow State,asterisk,النجمة
 apps/frappe/frappe/utils/verified_command.py,This link is invalid or expired. Please make sure you have pasted correctly.,هذا الرابط غير صالح أو منتهي الصلاحية. يرجى التأكد من أنك قد قمت بلصقها بشكل صحيح.
 apps/frappe/frappe/core/doctype/version/version_view.html,New Value,قيمة جديدة
@@ -2967,7 +2967,7 @@ apps/frappe/frappe/config/integrations.py,Google Maps integration,تكامل خ�
 apps/frappe/frappe/public/js/frappe/form/grid.js,Do not edit headers which are preset in the template,لا تقم بتحرير الرؤوس المحددة مسبقًا في القالب
 DocType: Workflow State,Workflow state represents the current state of a document.,تمثل حالة سير العمل الحالة الحالية للمستند.
 DocType: Web Page,Center,مركز
-apps/frappe/frappe/desk/page/setup_wizard/install_fixtures.py,Male,الذكر
+apps/frappe/frappe/desk/page/setup_wizard/install_fixtures.py,Male,ذكر
 DocType: Web Form,Amount Based On Field,المبلغ بناء على الحقل
 DocType: Web Form,Allow Edit,السماح بالتحرير
 DocType: Custom Field,Select the label after which you want to insert new field.,حدد التسمية التي تريد إدراج حقل جديد بعدها.
@@ -3108,7 +3108,7 @@ DocType: Auto Repeat,"To add dynamic subject, use jinja tags like
 
 <div><pre><code>New {{ doc.doctype }} #{{ doc.name }}</code></pre></div>","لإضافة موضوع ديناميكي ، استخدم علامات jinja مثل <div style=""""><pre style=""""> <code>New {{ doc.doctype }} #{{ doc.name }}</code> </pre> </div>"
 apps/frappe/frappe/public/js/frappe/views/treeview.js,Add Child,أضف الطفل
-apps/frappe/frappe/public/js/frappe/ui/toolbar/search_utils.js,New,الجديد
+apps/frappe/frappe/public/js/frappe/ui/toolbar/search_utils.js,New,إضافة
 apps/frappe/frappe/public/js/frappe/roles_editor.js,Add all roles,إضافة جميع الأدوار
 DocType: Transaction Log,Transaction Hash,تجزئة المعاملة
 DocType: Workflow Document State,Doc Status,حالة الوثيقة
@@ -3477,7 +3477,7 @@ DocType: Webhook,on_update_after_submit,on_update_after_submit
 DocType: Data Import,If you are updating/overwriting already created records.,إذا كنت تقوم بتحديث / الكتابة فوق السجلات التي تم إنشاؤها بالفعل.
 apps/frappe/frappe/public/js/frappe/views/treeview.js,View List,عرض القائمة
 DocType: System Settings,User can login using Email id or Mobile number,يمكن للمستخدم تسجيل الدخول باستخدام معرف البريد الإلكتروني أو رقم الجوال
-apps/frappe/frappe/public/js/frappe/list/list_view.js,Refreshing,منعش
+apps/frappe/frappe/public/js/frappe/list/list_view.js,Refreshing,تحديث
 apps/frappe/frappe/config/integrations.py,"Enter keys to enable login via Facebook, Google, GitHub.",أدخل المفاتيح لتمكين تسجيل الدخول عبر Facebook و Google و GitHub.
 apps/frappe/frappe/integrations/doctype/stripe_settings/stripe_settings.py,Please select another payment method. Stripe does not support transactions in currency '{0}',يرجى اختيار طريقة دفع أخرى. الشريط لا يدعم المعاملات بالعملة &#39;{0}&#39;
 apps/frappe/frappe/public/js/frappe/form/linked_with.js,Not enough permission to see links,لا يكفي إذن لرؤية الروابط
@@ -3486,7 +3486,7 @@ apps/frappe/frappe/templates/emails/recurring_document_failed.html,Please correc
 DocType: Top Bar Item,Top Bar Item,أعلى شريط البند
 ,Role Permissions Manager,مدير أذونات الدور
 apps/frappe/frappe/website/js/web_form.js,There were errors. Please report this.,كانت هناك أخطاء. يرجى الإبلاغ عن هذا.
-apps/frappe/frappe/desk/page/setup_wizard/install_fixtures.py,Female,إناثا
+apps/frappe/frappe/desk/page/setup_wizard/install_fixtures.py,Female,انثى
 DocType: System Settings,OTP Issuer Name,اسم مصدر OTP
 apps/frappe/frappe/public/js/frappe/form/sidebar/assign_to.js,Add to To Do,أضف إلى القيام به
 DocType: Report,Ref DocType,مرجع DocType
