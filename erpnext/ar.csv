@@ -467,7 +467,7 @@ DocType: Leave Type,Allow Encashment,السماح Encashment
 apps/erpnext/erpnext/config/projects.py,Project activity / task.,نشاط / مهمة المشروع.
 DocType: Bank Statement Transaction Invoice Item,Bank Statement Transaction Invoice Item,عنصر فاتورة معاملة كشف حساب بنكي
 DocType: Work Order,Total Operating Cost,إجمالي تكلفة التشغيل
-DocType: Employee Onboarding,Employee Onboarding Template,موظف على متن القالب
+DocType: Employee Onboarding,Employee Onboarding Template,قالب تأهيل الموظف
 DocType: Pricing Rule,Same Item,نفس البند
 apps/erpnext/erpnext/regional/india/bank_remittance.py,"Amount for a single transaction exceeds maximum allowed amount, create a separate payment order by splitting the transactions",يتجاوز مبلغ المعاملة الواحدة الحد الأقصى المسموح به ، وقم بإنشاء أمر دفع منفصل عن طريق تقسيم المعاملات
 DocType: Payroll Entry,Salary Slips Created,تم إنشاء قسائم الرواتب
@@ -1230,7 +1230,7 @@ DocType: Company,Default Cash Account,الحساب النقدي الافتراض
 apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py,Please enter Reference date,الرجاء إدخال التاريخ المرجعي
 apps/erpnext/erpnext/stock/doctype/stock_ledger_entry/stock_ledger_entry.py,Item {0} must be a stock Item,يجب أن يكون العنصر {0} عنصر مخزون
 DocType: POS Profile,Print Format for Online,تنسيق الطباعة عبر الإنترنت
-,Employee Leave Balance,إجازة الموظف الرصيد
+,Employee Leave Balance,رصيد إجازة الموظف
 DocType: Projects Settings,Ignore User Time Overlap,تجاهل المستخدم وقت التداخل
 DocType: Stock Entry,As per Stock UOM,حسب الأسهم UOM
 apps/erpnext/erpnext/accounts/doctype/cost_center/cost_center.py,Cost Center with existing transactions can not be converted to group,مركز التكلفة مع المعاملات الحالية لا يمكن تحويلها إلى مجموعة

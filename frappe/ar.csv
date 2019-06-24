@@ -1,4 +1,4 @@
-DocType: Data Migration Connector,Connector Type,نوع الموصل
+﻿DocType: Data Migration Connector,Connector Type,نوع الموصل
 DocType: Social Login Key,Provider Name,اسم المزود
 apps/frappe/frappe/model/naming.py,Name cannot contain special characters like {0},لا يمكن أن يحتوي الاسم على أحرف خاصة مثل {0}
 apps/frappe/frappe/website/doctype/website_theme/website_theme.js,Enable Gradients,تمكين التدرجات
@@ -2787,7 +2787,7 @@ DocType: Blog Post,Blog Intro,مقدمة المدونة
 apps/frappe/frappe/core/doctype/comment/comment.py,New Mention,ذكر جديد
 DocType: Prepared Report,Report Name,تقرير اسم
 apps/frappe/frappe/model/document.py,Please refresh to get the latest document.,يرجى التحديث للحصول على أحدث وثيقة.
-apps/frappe/frappe/core/doctype/communication/communication.js,Close,قريب
+apps/frappe/frappe/core/doctype/communication/communication.js,Close,اغلاق
 apps/frappe/frappe/public/js/frappe/form/grid_row_form.js,Insert Above,أدخل أعلاه
 apps/frappe/frappe/public/js/frappe/utils/utils.js,and,و
 apps/frappe/frappe/config/integrations.py,Webhooks calling API requests into web apps,Webhooks استدعاء طلبات API في تطبيقات الويب
