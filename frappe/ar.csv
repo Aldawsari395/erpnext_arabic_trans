@@ -244,7 +244,7 @@ apps/frappe/frappe/core/page/usage_info/usage_info.html,Space,الفراغ
 DocType: Communication,Message ID,معرف الرسالة
 DocType: Deleted Document,Hub Sync ID,معرف مزامنة Hub
 DocType: System Settings,Apply Strict User Permissions,تطبيق أذونات مستخدم صارمة
-DocType: Custom DocPerm,Create,خلق
+DocType: Custom DocPerm,Create,انشاء
 apps/frappe/frappe/desk/reportview.py,{0} is saved,يتم حفظ {0}
 DocType: Communication,From,من عند
 apps/frappe/frappe/templates/includes/login/login.js,Not a valid user,ليس مستخدم صالح
