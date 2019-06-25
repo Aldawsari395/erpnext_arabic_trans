@@ -2179,7 +2179,7 @@ DocType: Payroll Entry,Deduct Tax For Unsubmitted Tax Exemption Proof,خصم ا�
 apps/erpnext/erpnext/accounts/doctype/bank_reconciliation/bank_reconciliation.py,Clearance Date updated,تاريخ التخليص المحدث
 DocType: Delivery Trip,Delivery Stops,توقف التسليم
 DocType: Setup Progress,Setup Progress,تقدم الإعداد
-,Ordered Items To Be Billed,العناصر المطلوبة لفواتير
+,Ordered Items To Be Billed,عناصر مطلوب لها فاتورة
 DocType: Taxable Salary Slab,To Amount,لكمية
 DocType: Purchase Invoice,Is Return (Debit Note),هو العودة (مذكرة الخصم)
 apps/erpnext/erpnext/config/desktop.py,Getting Started,ابدء
