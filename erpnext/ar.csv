@@ -2910,7 +2910,7 @@ apps/erpnext/erpnext/controllers/accounts_controller.py,Total Payment Amount in 
 ,Itemwise Recommended Reorder Level,الموصى بها Itemwise إعادة ترتيب المستوى
 DocType: Course Activity,Video,فيديو
 DocType: Salary Slip Loan,Salary Slip Loan,قرض قسيمة الراتب
-DocType: Account,Balance Sheet,ورقة التوازن
+DocType: Account,Balance Sheet,الميزانية العمومية
 DocType: Email Digest,Payables,دائنة
 apps/erpnext/erpnext/education/doctype/fee_schedule/fee_schedule_list.js,Fee Created,رسوم الإنشاء
 ,Customer Acquisition and Loyalty,اكتساب العملاء والولاء
