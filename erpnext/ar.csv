@@ -3680,7 +3680,7 @@ apps/erpnext/erpnext/regional/report/eway_bill/eway_bill.py,Doc Name,اسم ال
 apps/erpnext/erpnext/crm/doctype/lead/lead.py,Lead Owner cannot be same as the Lead,المالك الرئيسي لا يمكن أن يكون هو نفسه العميل المحتمل
 apps/erpnext/erpnext/config/accounting.py,"e.g. Bank, Cash, Credit Card",على سبيل المثال البنك ، النقد ، بطاقة الائتمان
 DocType: Item,Serial Number Series,سلسلة الرقم التسلسلي
-apps/erpnext/erpnext/config/accounting.py,Bank Statement Transaction Entry List,كشف الحساب المعاملات دخول القائمة
+apps/erpnext/erpnext/config/accounting.py,Bank Statement Transaction Entry List,كشف المعاملات البنكية
 apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts_with_account_number.py,Postal Expenses,مصاريف البريد
 apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py,Management,إدارة
 apps/erpnext/erpnext/config/retail.py,To view logs of Loyalty Points assigned to a Customer.,لعرض سجلات نقاط الولاء المخصصة للعميل.
