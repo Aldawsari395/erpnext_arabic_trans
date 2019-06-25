@@ -1099,7 +1099,7 @@ apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py,Pharmaceu
 DocType: Program Enrollment,Boarding Student,طالب صاعد
 apps/erpnext/erpnext/setup/doctype/sales_person/sales_person.js,Total Contribution Amount: {0},إجمالي مساهمة المساهمة: {0}
 DocType: Item Alternative,Two-way,في اتجاهين
-DocType: Appraisal,Appraisal,توصيه
+DocType: Appraisal,Appraisal,تقييم
 apps/erpnext/erpnext/controllers/trends.py,Fiscal Year: {0} does not exists,السنة المالية: {0} غير موجود
 apps/erpnext/erpnext/hr/doctype/job_offer/job_offer.js,Create Employee,إنشاء موظف
 apps/erpnext/erpnext/hr/doctype/salary_structure/salary_structure.py,Structures have been assigned successfully,تم تعيين الهياكل بنجاح
@@ -1649,7 +1649,7 @@ DocType: Asset Maintenance Log,Planned,مخطط
 DocType: Asset,Custodian,وصي
 apps/erpnext/erpnext/accounts/report/budget_variance_report/budget_variance_report.py,Filter based on Cost Center is only applicable if Budget Against is selected as Cost Center,يتم تطبيق التصفية استنادًا إلى &quot;مركز التكلفة&quot; فقط إذا تم تحديد &quot;ميزانية معاكسة&quot; كـ &quot;مركز تكلفة&quot;
 ,Quoted Item Comparison,ونقلت مقارنة البند
-DocType: Journal Entry Account,Employee Advance,الموظف مقدما
+DocType: Journal Entry Account,Employee Advance,سلفة الموظف
 apps/erpnext/erpnext/regional/doctype/gstr_3b_report/gstr_3b_report.html,Inward supplies liable to reverse charge (other than 1 & 2 above),اللوازم الداخلة عرضة للشحن العكسي (بخلاف 1 و 2 أعلاه)
 DocType: Quotation,Shopping Cart,عربة التسوق
 apps/erpnext/erpnext/hr/doctype/employee/employee.py,User {0} does not exist,المستخدم {0} غير موجود
@@ -2533,7 +2533,7 @@ apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.py,Work Order c
 DocType: Employee External Work History,Salary,راتب
 apps/erpnext/erpnext/projects/doctype/project/project.js,Set Status,تعيين الحالة
 apps/erpnext/erpnext/regional/doctype/gstr_3b_report/gstr_3b_report.html,Inward supplies from ISD,إمدادات الداخل من ISD
-,Vehicle Expenses,مصاريف السيارة
+,Vehicle Expenses,مصاريف المركبة
 apps/erpnext/erpnext/public/js/controllers/transaction.js,Please set 'Apply Additional Discount On',يرجى ضبط &quot;تطبيق خصم إضافي على&quot;
 DocType: Closed Document,Closed Document,وثيقة مغلقة
 apps/erpnext/erpnext/hr/doctype/holiday_list/holiday_list.py,Please select weekly off day,يرجى اختيار أسبوعي قبالة يوم
@@ -6666,7 +6666,7 @@ DocType: Patient Appointment,Patient Appointment,موعد المريض
 DocType: Inpatient Record,AB Positive,AB إيجابي
 apps/erpnext/erpnext/accounts/report/asset_depreciation_ledger/asset_depreciation_ledger.py,Depreciation Date,تاريخ الاستهلاك
 apps/erpnext/erpnext/setup/doctype/email_digest/templates/default.html,Upcoming Calendar Events,أحداث التقويم القادمة
-apps/erpnext/erpnext/config/hr.py,"Appraisals, Expense Claims and Loans",التقييمات ، مطالبات النفقات والقروض
+apps/erpnext/erpnext/config/hr.py,"Appraisals, Expense Claims and Loans",التقييمات ، مطالبة النفقات والقروض
 apps/erpnext/erpnext/utilities/activation.py,Create Student Batch,إنشاء دفعة الطالب
 DocType: Travel Itinerary,Travel Advance Required,السفر مقدما المطلوبة
 apps/erpnext/erpnext/config/manufacturing.py,Orders released for production.,أوامر صدر للإنتاج.
