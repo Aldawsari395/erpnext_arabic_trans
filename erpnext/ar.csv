@@ -3633,7 +3633,7 @@ DocType: Leave Block List Allow,Leave Block List Allow,ترك قائمة كتل�
 DocType: Serial No,AMC Expiry Date,تاريخ انتهاء صلاحية AMC
 DocType: Asset,Number of Depreciations Booked,عدد الإهلاكات المحجوزة
 DocType: Student Group Creation Tool,Student Group Creation Tool,أداة إنشاء مجموعة الطلاب
-,Purchase Order Items To Be Billed,بنود أمر الشراء المطلوب تحريرها
+,Purchase Order Items To Be Billed,ترتيب البنود التي تحتاج فاتورة
 DocType: Leave Period,Holiday List for Optional Leave,قائمة عطلة لإجازة اختيارية
 apps/erpnext/erpnext/config/accounting.py,Default settings for accounting transactions.,الإعدادات الافتراضية للمعاملات المحاسبية.
 DocType: Purchase Invoice,Scan Barcode,مسح الرمز الشريطى
