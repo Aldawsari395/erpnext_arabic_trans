@@ -1416,7 +1416,7 @@ DocType: Website Settings,Banner is above the Top Menu Bar.,بانر أعلى ش
 apps/frappe/frappe/www/update-password.html,Invalid Password,رمز مرور خاطئ
 apps/frappe/frappe/utils/data.py,1 month ago,1 قبل شهر
 DocType: OAuth Client,App Client ID,معرف عميل التطبيق
-DocType: DocField,Currency,دقة
+DocType: DocField,Currency,عملة
 DocType: Website Settings,Banner,راية
 DocType: Assignment Rule,Document Type,نوع الوثيقة
 apps/frappe/frappe/public/js/frappe/views/file/file_view.js,Folder name should not include '/' (slash),يجب ألا يتضمن اسم المجلد &quot;/&quot; (شرطة مائلة)
