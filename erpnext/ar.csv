@@ -6577,7 +6577,7 @@ apps/erpnext/erpnext/crm/doctype/opportunity/opportunity.py,"Cannot declare as l
 DocType: Employee,"Here you can maintain family details like name and occupation of parent, spouse and children",هنا يمكنك الاحتفاظ بتفاصيل العائلة مثل اسم الوالد والزوجة والأطفال
 DocType: Tax Rule,Shipping City,مدينة الشحن
 apps/erpnext/erpnext/buying/doctype/purchase_order/purchase_order.js,Update Items,تحديث العناصر
-,Customer Ledger Summary,ملخص دفتر الأستاذ
+,Customer Ledger Summary,ملخص حسابات العميل
 DocType: Inpatient Record,B Positive,ب إيجابي
 apps/erpnext/erpnext/config/accounting.py,Accounting journal entries.,إدخالات دفتر اليومية.
 DocType: Buying Settings,Purchase Order Required,أمر الشراء مطلوب
@@ -7384,7 +7384,7 @@ DocType: UOM,UOM Name,اسم UOM
 DocType: Vital Signs,BMI,مؤشر كتلة الجسم
 apps/erpnext/erpnext/projects/doctype/project/project_dashboard.html,Hours,ساعات
 apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.py,Amount {0} {1} {2} {3},المبلغ {0} {1} {2} {3}
-,Supplier Ledger Summary,ملخص دفتر الأستاذ
+,Supplier Ledger Summary,ملخص حسابات المورد
 apps/erpnext/erpnext/education/report/student_and_guardian_contact_details/student_and_guardian_contact_details.py,Student Email ID,معرف البريد الإلكتروني للطالب
 apps/erpnext/erpnext/config/integrations.py,GoCardless SEPA Mandate,GoCardless SEPA الانتداب
 DocType: Bank Account,IBAN,IBAN
