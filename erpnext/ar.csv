@@ -123,7 +123,7 @@ DocType: Agriculture Task,Ignore holidays,تجاهل العطلات
 DocType: Linked Soil Texture,Linked Soil Texture,ربط نسيج التربة
 apps/erpnext/erpnext/hr/doctype/vehicle/vehicle_dashboard.py,This is based on logs against this Vehicle. See timeline below for details,ويستند هذا على سجلات ضد هذه السيارة. انظر الجدول الزمني أدناه للحصول على التفاصيل
 DocType: Payment Entry,ACC-PAY-.YYYY.-,ACC-PAY-.YYYY.-
-DocType: Employee,Emergency Contact,شخص لاتصال الطارئ
+DocType: Employee,Emergency Contact,اتصال الطارئ
 DocType: QuickBooks Migrator,Authorization URL,عنوان URL التخويل
 DocType: Attendance,On Leave,عند المغادرة
 DocType: Item,Show a slideshow at the top of the page,إظهار عرض شرائح في أعلى الصفحة
