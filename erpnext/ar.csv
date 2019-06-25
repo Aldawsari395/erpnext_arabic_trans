@@ -5112,7 +5112,7 @@ DocType: Salary Slip,Earnings,أرباح
 apps/erpnext/erpnext/accounts/report/accounts_receivable/accounts_receivable.html,Total Paid Amount,إجمالي المبلغ المدفوع
 apps/erpnext/erpnext/stock/doctype/batch/batch.js,To Warehouse,إلى المستودع
 DocType: Appraisal,Total Score (Out of 5),مجموع النقاط (من 5)
-DocType: Journal Entry,Accounts Receivable,الذمم المدينة
+DocType: Journal Entry,Accounts Receivable,مستقبل الحسابات
 apps/erpnext/erpnext/setup/setup_wizard/setup_wizard.py,Setting defaults,تحديد الإعدادات الافتراضية
 apps/erpnext/erpnext/selling/doctype/sales_order/sales_order.py,"Cannot ensure delivery by Serial No as \
 					Item {0} is added with and without Ensure Delivery by \
