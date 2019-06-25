@@ -3078,7 +3078,7 @@ DocType: Healthcare Settings,Default income accounts to be used if not set in He
 apps/erpnext/erpnext/education/doctype/student_group/student_group.js,Student Group is already updated.,تم تحديث مجموعة الطلاب بالفعل.
 DocType: Driver,Fleet Manager,مدير القافلة
 apps/erpnext/erpnext/hr/doctype/leave_application/leave_application.py,You are not authorized to approve leaves on Block Dates,غير مصرّح لك بالموافقة على الإجازات في تواريخ البلوك
-,Purchase Invoice Trends,شراء اتجاهات الفاتورة
+,Purchase Invoice Trends,اتجاه فاتورة الشراء
 DocType: Purchase Taxes and Charges,On Previous Row Amount,في الصف السابق المبلغ
 apps/erpnext/erpnext/accounts/doctype/tax_withholding_category/tax_withholding_category.py,No Tax Withholding data found for the current Fiscal Year.,لم يتم العثور على بيانات الإعفاء الضريبي للسنة المالية الحالية.
 DocType: Travel Itinerary,Taxi,سيارة اجره
