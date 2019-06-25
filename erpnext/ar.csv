@@ -4195,7 +4195,7 @@ apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.py,Difference 
 DocType: Fee Schedule,Institution,المعهد
 DocType: Patient,Tobacco Current Use,استخدام التبغ الحالي
 apps/erpnext/erpnext/utilities/user_progress.py,Setup your ,الإعداد الخاص بك
-DocType: Payment Entry Deduction,Payment Entry Deduction,خصم دخول الدفع
+DocType: Payment Entry Deduction,Payment Entry Deduction,خصم رسوم الدفع
 apps/erpnext/erpnext/stock/doctype/batch/batch.py,"Row #{0}: The batch {1} has only {2} qty. Please select another batch which has {3} qty available or split the row into multiple rows, to deliver/issue from multiple batches",الصف # {0}: الدفعة {1} بها فقط {2} الكمية. يرجى تحديد دفعة أخرى تحتوي على {3} الكمية أو تقسيم الصف إلى عدة صفوف ، لتسليم / إصدار من مجموعات متعددة
 DocType: Patient Appointment,Procedure,إجراء
 ,Total Stock Summary,ملخص إجمالي الأسهم
@@ -5739,7 +5739,7 @@ apps/erpnext/erpnext/accounts/party.py,Not permitted for {0},غير مسموح �
 apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py,{0} {1} is fully billed,{0} {1} يتم محاسبته بالكامل
 DocType: Payment Request,Inward,نحو الداخل
 apps/erpnext/erpnext/templates/pages/help.html,See All Articles,انظر جميع المواد
-DocType: Bank Reconciliation Detail,Payment Entry,دخول الدفع
+DocType: Bank Reconciliation Detail,Payment Entry,رسوم الدخول
 DocType: Payment Request,Recipient Message And Payment Details,رسالة المستلم وتفاصيل الدفع
 DocType: Payment Terms Template Detail,Payment Terms Template Detail,شروط الدفع قالب التفاصيل
 apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.js,Select Quantity,اختر الكمية
