@@ -215,7 +215,7 @@ apps/erpnext/erpnext/manufacturing/doctype/bom/bom.py,Item {0} does not exist in
 DocType: Pricing Rule,Price Discount Scheme,مخطط سعر الخصم
 DocType: Vital Signs,Hyper,فرط
 apps/erpnext/erpnext/public/js/setup_wizard.js,What does it do?,ماذا تعمل، أو ماذا تفعل؟
-,Sales Invoice Trends,اتجاهات فاتورة المبيعات
+,Sales Invoice Trends,اتجاه فاتورةالمبيعات
 DocType: Bank Reconciliation,Payment Entries,إدخالات الدفع
 DocType: Employee Education,Class / Percentage,الطبقة / النسبة المئوية
 apps/erpnext/erpnext/accounts/doctype/pricing_rule/pricing_rule.js,Item Code &gt; Item Group &gt; Brand,كود الصنف&gt; مجموعة الصنف&gt; العلامة التجارية
