@@ -2179,7 +2179,7 @@ DocType: Payroll Entry,Deduct Tax For Unsubmitted Tax Exemption Proof,خصم ا�
 apps/erpnext/erpnext/accounts/doctype/bank_reconciliation/bank_reconciliation.py,Clearance Date updated,تاريخ التخليص المحدث
 DocType: Delivery Trip,Delivery Stops,توقف التسليم
 DocType: Setup Progress,Setup Progress,تقدم الإعداد
-,Ordered Items To Be Billed,العناصر المطلوبة لفواتير
+,Ordered Items To Be Billed,عناصر مطلوب لها فاتورة
 DocType: Taxable Salary Slab,To Amount,لكمية
 DocType: Purchase Invoice,Is Return (Debit Note),هو العودة (مذكرة الخصم)
 apps/erpnext/erpnext/config/desktop.py,Getting Started,ابدء
@@ -3633,7 +3633,7 @@ DocType: Leave Block List Allow,Leave Block List Allow,ترك قائمة كتل�
 DocType: Serial No,AMC Expiry Date,تاريخ انتهاء صلاحية AMC
 DocType: Asset,Number of Depreciations Booked,عدد الإهلاكات المحجوزة
 DocType: Student Group Creation Tool,Student Group Creation Tool,أداة إنشاء مجموعة الطلاب
-,Purchase Order Items To Be Billed,بنود أمر الشراء المطلوب تحريرها
+,Purchase Order Items To Be Billed,ترتيب البنود التي تحتاج فاتورة
 DocType: Leave Period,Holiday List for Optional Leave,قائمة عطلة لإجازة اختيارية
 apps/erpnext/erpnext/config/accounting.py,Default settings for accounting transactions.,الإعدادات الافتراضية للمعاملات المحاسبية.
 DocType: Purchase Invoice,Scan Barcode,مسح الرمز الشريطى
@@ -4195,7 +4195,7 @@ apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.py,Difference 
 DocType: Fee Schedule,Institution,المعهد
 DocType: Patient,Tobacco Current Use,استخدام التبغ الحالي
 apps/erpnext/erpnext/utilities/user_progress.py,Setup your ,الإعداد الخاص بك
-DocType: Payment Entry Deduction,Payment Entry Deduction,خصم دخول الدفع
+DocType: Payment Entry Deduction,Payment Entry Deduction,خصم رسوم الدفع
 apps/erpnext/erpnext/stock/doctype/batch/batch.py,"Row #{0}: The batch {1} has only {2} qty. Please select another batch which has {3} qty available or split the row into multiple rows, to deliver/issue from multiple batches",الصف # {0}: الدفعة {1} بها فقط {2} الكمية. يرجى تحديد دفعة أخرى تحتوي على {3} الكمية أو تقسيم الصف إلى عدة صفوف ، لتسليم / إصدار من مجموعات متعددة
 DocType: Patient Appointment,Procedure,إجراء
 ,Total Stock Summary,ملخص إجمالي الأسهم
@@ -5739,7 +5739,7 @@ apps/erpnext/erpnext/accounts/party.py,Not permitted for {0},غير مسموح �
 apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py,{0} {1} is fully billed,{0} {1} يتم محاسبته بالكامل
 DocType: Payment Request,Inward,نحو الداخل
 apps/erpnext/erpnext/templates/pages/help.html,See All Articles,انظر جميع المواد
-DocType: Bank Reconciliation Detail,Payment Entry,دخول الدفع
+DocType: Bank Reconciliation Detail,Payment Entry,رسوم الدخول
 DocType: Payment Request,Recipient Message And Payment Details,رسالة المستلم وتفاصيل الدفع
 DocType: Payment Terms Template Detail,Payment Terms Template Detail,شروط الدفع قالب التفاصيل
 apps/erpnext/erpnext/manufacturing/doctype/work_order/work_order.js,Select Quantity,اختر الكمية
