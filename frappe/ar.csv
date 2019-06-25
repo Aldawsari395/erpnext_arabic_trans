@@ -1942,7 +1942,7 @@ apps/frappe/frappe/public/js/frappe/form/grid.js,Bulk Edit {0},جملة تحري
 apps/frappe/frappe/public/js/frappe/views/reports/query_report.js,Preparing Report,إعداد التقرير
 apps/frappe/frappe/social/doctype/energy_point_log/energy_point_log.py,{0} criticized your work on {1} with {2} point,{0} انتقد عملك على {1} بنقطة {2}
 DocType: Print Format,Verdana,فيردانا
-DocType: Contact,Unsubscribed,غير المكتتب به
+DocType: Contact,Unsubscribed,غير مشترك به
 DocType: DocPerm,DocPerm,DocPerm
 apps/frappe/frappe/core/doctype/doctype/doctype.py,Fold can not be at the end of the form,أضعاف لا يمكن أن يكون في نهاية النموذج
 DocType: Print Settings,Server IP,خادم IP
