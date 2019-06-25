@@ -1475,7 +1475,7 @@ DocType: Course Scheduling Tool,Course Scheduling Tool,أداة جدولة ال�
 DocType: Sales Invoice Item,Customer Warehouse (Optional),مستودع العملاء (اختياري)
 apps/erpnext/erpnext/accounts/page/pos/pos.js,Sync Master Data,مزامنة البيانات الرئيسية
 DocType: Lead,Address & Contact,العنوان والاتصال
-DocType: Bank Reconciliation,To Date,حتى الآن
+DocType: Bank Reconciliation,To Date,الى تاريخ
 apps/erpnext/erpnext/hr/doctype/upload_attendance/upload_attendance.js,Error in some rows,خطأ في بعض الصفوف
 apps/erpnext/erpnext/healthcare/doctype/inpatient_record/inpatient_record_dashboard.py,Lab Tests and Vital Signs,الاختبارات المعملية والعلامات الحيوية
 apps/erpnext/erpnext/config/accounting.py,Tax Rule for transactions.,القاعدة الضريبية للمعاملات.
@@ -3524,7 +3524,7 @@ DocType: Homepage,Homepage,الصفحة الرئيسية
 apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py,Compensatory Off,قبالة التعويضية
 apps/erpnext/erpnext/accounts/doctype/opening_invoice_creation_tool/opening_invoice_creation_tool_dashboard.html,Opening Invoices Summary,فتح ملخص الفواتير
 DocType: Vehicle Service,Engine Oil,زيت المحرك
-DocType: Job Applicant,Applicant Name,اسم التطبيق
+DocType: Job Applicant,Applicant Name,اسم المتقدم
 DocType: Serial No,Delivery Document No,رقم مستند التسليم
 DocType: Hub Users,Hub Users,المستخدمين المحور
 DocType: Bin,Actual Quantity,الكمية الفعلية
