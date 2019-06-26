@@ -639,7 +639,7 @@ DocType: File,Is Home Folder,هو مجلد المنزل
 apps/frappe/frappe/core/doctype/data_export/exporter.py,Type:,نوع:
 DocType: Post,Is Pinned,مثبت
 apps/frappe/frappe/public/js/frappe/form/form.js,No permission to '{0}' {1},ليس هناك إذن لـ &#39;{0}&#39; {1}
-DocType: Patch Log,Patch Log,سجل التصحيح
+DocType: Patch Log,Patch Log,سجل التعديل
 DocType: Print Format,Print Format Builder,منشئ تنسيق الطباعة
 DocType: System Settings,"If enabled, all users can login from any IP Address using Two Factor Auth. This can also be set only for specific user(s) in User Page",في حالة التمكين ، يمكن لجميع المستخدمين تسجيل الدخول من أي عنوان IP باستخدام المصادقة الثنائية. يمكن أيضًا تعيين هذا فقط لمستخدم (مستخدمين) معينين في صفحة المستخدم
 apps/frappe/frappe/utils/data.py,only.,فقط.
@@ -665,7 +665,7 @@ apps/frappe/frappe/public/js/frappe/form/print.js,Orientation,اتجاه
 apps/frappe/frappe/public/js/frappe/form/templates/form_sidebar.html,Assign,تعيين
 apps/frappe/frappe/core/page/permission_manager/permission_manager_help.html,For example if you cancel and amend INV004 it will become a new document INV004-1. This helps you to keep track of each amendment.,على سبيل المثال ، إذا قمت بإلغاء وتعديل INV004 ، فستصبح وثيقة جديدة INV004-1. هذا يساعدك على تتبع كل تعديل.
 DocType: Auto Email Report,From Date Field,من حقل التاريخ
-apps/frappe/frappe/custom/doctype/custom_script/custom_script.js,Add script for Child Table,إضافة البرنامج النصي لجدول الطفل
+apps/frappe/frappe/custom/doctype/custom_script/custom_script.js,Add script for Child Table,إضافة البرنامج النصي لجدول ملف
 apps/frappe/frappe/templates/includes/comments/comments.py,View Comment,عرض التعليق
 DocType: DocField,Ignore User Permissions,تجاهل أذونات المستخدم
 apps/frappe/frappe/public/js/frappe/form/footer/timeline.js,{0} from {1} to {2},{0} من {1} إلى {2}
@@ -762,7 +762,7 @@ apps/frappe/frappe/www/me.html,Edit Profile,تعديل الملف الشخصي
 DocType: Prepared Report,Ref Report DocType,المرجع تقرير DocType
 DocType: OAuth Bearer Token,Expires In,ينتهي في
 apps/frappe/frappe/core/doctype/comment/comment.py,{0} mentioned you in a comment in {1},{0} ذكرتك في تعليق في {1}
-apps/frappe/frappe/core/page/dashboard/dashboard.js,Edit...,تصحيح...
+apps/frappe/frappe/core/page/dashboard/dashboard.js,Edit...,تعديل...
 DocType: DocField,hidden,مخفي
 DocType: Blog Post,Rich Text,النص الغني
 DocType: Contact,Accounts Manager,مدير الحسابات
@@ -947,7 +947,7 @@ apps/frappe/frappe/public/js/frappe/views/reports/report_view.js,Y Axis Fields,�
 apps/frappe/frappe/integrations/doctype/s3_backup_settings/s3_backup_settings.js,S3 Backup complete!,S3 النسخ الاحتياطي كاملة!
 apps/frappe/frappe/public/js/frappe/list/list_sidebar.html,Kanban,كانبان
 DocType: Report,Is Standard,هو المعيار
-DocType: Workflow State,Edit,تصحيح
+DocType: Workflow State,Edit,تعديل
 apps/frappe/frappe/templates/includes/login/login.js,Invalid Login. Try again.,تسجيل الدخول غير صالح. حاول مرة أخري.
 DocType: Comment,Attachment,المرفق
 DocType: Comment,Reference Document Type,نوع المستند المرجعي
@@ -1032,7 +1032,7 @@ apps/frappe/frappe/templates/includes/search_template.html,Type something in the
 DocType: Success Action,Next Actions HTML,الإجراءات التالية HTML
 DocType: Dashboard Chart,Sum,مجموع
 DocType: Workflow,Don't Override Status,لا تتجاوز الحالة
-DocType: DocType,Is Child Table,هو الجدول الطفل
+DocType: DocType,Is Child Table,هو الجدول ملف
 apps/frappe/frappe/printing/page/print_format_builder/print_format_builder.js,Custom HTML,HTML مخصص
 apps/frappe/frappe/model/document.py,{0} must be after {1},{0} يجب أن يكون بعد {1}
 DocType: Auto Repeat,Half-Yearly,نصف سنوي
@@ -1095,7 +1095,7 @@ DocType: OAuth Client,Grant Type,نوع المنحة
 apps/frappe/frappe/core/doctype/file/file.py,Same file has already been attached to the record,تم بالفعل إرفاق نفس الملف بالسجل
 DocType: Assignment Rule,"Simple Python Expression, Example: status == 'Open' and type == 'Bug'",تعبير Python البسيط ، مثال: status == &#39;Open&#39; واكتب == &#39;Bug&#39;
 apps/frappe/frappe/templates/includes/integrations/stripe_checkout.js,Processing...,معالجة...
-apps/frappe/frappe/public/js/frappe/views/reports/report_view.js,Report:,أبلغ عن:
+apps/frappe/frappe/public/js/frappe/views/reports/report_view.js,Report:,تقرير عن:
 apps/frappe/frappe/integrations/doctype/slack_webhook_url/slack_webhook_url.py,Slack Webhook Error,سلاك خطأ Webhook
 DocType: Blog Post,Published On,نشرت على
 DocType: Address Template,"<h4>Default Template</h4>
@@ -1114,7 +1114,7 @@ apps/frappe/frappe/website/doctype/help_article/templates/help_article.html,More
 DocType: Assignment Rule,Assignment Rules,قواعد الاحالة
 DocType: System Settings,Allow Login using Mobile Number,السماح بتسجيل الدخول باستخدام رقم الجوال
 apps/frappe/frappe/public/js/frappe/utils/pretty_date.js,{0} minutes ago,قبل {0} دقيقة
-apps/frappe/frappe/public/js/frappe/views/treeview.js,Tree view not available for {0},عرض الشجرة غير متاح لـ {0}
+apps/frappe/frappe/public/js/frappe/views/treeview.js,Tree view not available for {0},عرض تفرع غير متاح لـ {0}
 apps/frappe/frappe/public/js/frappe/ui/toolbar/awesome_bar.js,List a document type,سرد نوع المستند
 DocType: Kanban Board Column,Indicator,مؤشر
 DocType: Customize Form,Sort Field,فرز الحقل
@@ -1187,7 +1187,7 @@ apps/frappe/frappe/core/doctype/communication/communication.js,Mark as Spam,عل
 DocType: Data Migration Plan,Data Migration Plan,خطة ترحيل البيانات
 DocType: Email Queue Recipient,Email Queue Recipient,قائمة انتظار البريد الإلكتروني المستلم
 DocType: DocField,Do not allow user to change after set the first time,لا تسمح للمستخدم بتغيير بعد تعيين أول مرة
-DocType: Patch Log,Patch,تصحيح
+DocType: Patch Log,Patch,تعديل
 DocType: Notification,Send alert if date matches this field's value,إرسال تنبيه إذا كان التاريخ يطابق قيمة هذا الحقل
 apps/frappe/frappe/templates/emails/auto_reply.html,Reference: {0} {1},المرجع: {0} {1}
 DocType: DocType,Default Print Format,تنسيق الطباعة الافتراضي
@@ -1361,7 +1361,7 @@ apps/frappe/frappe/public/js/frappe/ui/toolbar/about.js,Frappe Framework,إطا�
 apps/frappe/frappe/desk/page/activity/activity_row.html,Commented on {0}: {1},تم التعليق على {0}: {1}
 DocType: Property Setter,Set Value,ضبط القيمة
 apps/frappe/frappe/core/doctype/version/version.js,Show all Versions,عرض كل الإصدارات
-DocType: Custom DocPerm,Submit,خضع
+DocType: Custom DocPerm,Submit,أرسال
 apps/frappe/frappe/public/js/frappe/form/print.js,This may get printed on multiple pages,قد تتم طباعة هذا على صفحات متعددة
 DocType: User,Get your globally recognized avatar from Gravatar.com,احصل على الصورة الرمزية المعترف بها عالميًا من Gravatar.com
 DocType: GCalendar Settings,Client ID,معرف العميل
@@ -1416,7 +1416,7 @@ DocType: Website Settings,Banner is above the Top Menu Bar.,بانر أعلى ش
 apps/frappe/frappe/www/update-password.html,Invalid Password,رمز مرور خاطئ
 apps/frappe/frappe/utils/data.py,1 month ago,1 قبل شهر
 DocType: OAuth Client,App Client ID,معرف عميل التطبيق
-DocType: DocField,Currency,دقة
+DocType: DocField,Currency,عملة
 DocType: Website Settings,Banner,راية
 DocType: Assignment Rule,Document Type,نوع الوثيقة
 apps/frappe/frappe/public/js/frappe/views/file/file_view.js,Folder name should not include '/' (slash),يجب ألا يتضمن اسم المجلد &quot;/&quot; (شرطة مائلة)
@@ -1503,7 +1503,7 @@ apps/frappe/frappe/templates/emails/recurring_document_failed.html,and uncheck D
 apps/frappe/frappe/public/js/frappe/socketio_client.js,File Upload in Progress. Please try again in a few moments.,تحميل الملف قيد التقدم. يرجى المحاولة مرة أخرى في بضع لحظات.
 DocType: Address,Postal Code,الرمز البريدي
 DocType: Workflow Action,Workflow State,دولة سير العمل
-apps/frappe/frappe/public/js/frappe/list/list_sidebar.html,Tree,شجرة
+apps/frappe/frappe/public/js/frappe/list/list_sidebar.html,Tree,تفرع
 DocType: Milestone,Milestone Tracker,معلما المقتفي
 apps/frappe/frappe/limits.py,Your subscription will expire tomorrow.,سوف اشتراكك تنتهي غدا.
 DocType: Address,Address Title,عنوان عنوان
@@ -1569,7 +1569,7 @@ apps/frappe/frappe/printing/doctype/print_settings/print_settings.py,Failed to c
 apps/frappe/frappe/public/js/frappe/form/controls/date.js,Date {0} must be in format: {1},يجب أن يكون التاريخ {0} بالتنسيق: {1}
 apps/frappe/frappe/core/page/usage_info/usage_info.js,Renew / Upgrade,تجديد / ترقية
 apps/frappe/frappe/core/doctype/communication/communication.py,Cannot create a {0} against a child document: {1},لا يمكن إنشاء {0} مقابل مستند فرعي: {1}
-apps/frappe/frappe/custom/doctype/custom_script/custom_script.js,Select Child Table,حدد جدول الطفل
+apps/frappe/frappe/custom/doctype/custom_script/custom_script.js,Select Child Table,حدد جدول ملف
 DocType: Activity Log,Link DocType,رابط DocType
 apps/frappe/frappe/public/js/frappe/form/print.js,Cannot have multiple printers mapped to a single print format.,لا يمكن تعيين طابعات متعددة على تنسيق طباعة واحد.
 apps/frappe/frappe/core/doctype/file/test_file.py,Test_Folder,Test_Folder
@@ -1946,7 +1946,7 @@ DocType: Contact,Unsubscribed,غير مشترك به
 DocType: DocPerm,DocPerm,DocPerm
 apps/frappe/frappe/core/doctype/doctype/doctype.py,Fold can not be at the end of the form,أضعاف لا يمكن أن يكون في نهاية النموذج
 DocType: Print Settings,Server IP,خادم IP
-apps/frappe/frappe/public/js/frappe/views/treeview.js,{0} Tree,{0} شجرة
+apps/frappe/frappe/public/js/frappe/views/treeview.js,{0} Tree,{0} تفرع
 apps/frappe/frappe/www/login.html,Send Password,إرسال كلمة المرور
 DocType: Event,All Day,طوال اليوم
 apps/frappe/frappe/core/doctype/data_export/exporter.py,Parent is the name of the document to which the data will get added to.,الأصل هو اسم المستند الذي ستتم إضافة البيانات إليه.
@@ -2274,7 +2274,7 @@ apps/frappe/frappe/public/js/frappe/list/list_view.js,{0} items selected,{0} ا�
 apps/frappe/frappe/templates/includes/comments/comments.html,Leave a Comment,اترك تعليقا
 DocType: Stripe Settings,Stripe Settings,إعدادات الشريط
 DocType: System Settings,Background Workers,عمال الخلفية
-apps/frappe/frappe/public/js/frappe/form/templates/print_layout.html,Customize...,يعدل أو يكيف...
+apps/frappe/frappe/public/js/frappe/form/templates/print_layout.html,Customize...,...تعديل
 DocType: Dashboard Chart,Last Year,العام الماضي
 DocType: Data Migration Mapping,Remote Objectname,اسم كائن بعيد
 DocType: System Settings,yyyy-mm-dd,YYYY-MM-DD
@@ -3107,7 +3107,7 @@ DocType: Communication,User Tags,علامات المستخدم
 DocType: Auto Repeat,"To add dynamic subject, use jinja tags like
 
 <div><pre><code>New {{ doc.doctype }} #{{ doc.name }}</code></pre></div>","لإضافة موضوع ديناميكي ، استخدم علامات jinja مثل <div style=""""><pre style=""""> <code>New {{ doc.doctype }} #{{ doc.name }}</code> </pre> </div>"
-apps/frappe/frappe/public/js/frappe/views/treeview.js,Add Child,أضف الطفل
+apps/frappe/frappe/public/js/frappe/views/treeview.js,Add Child,أضف ملف
 apps/frappe/frappe/public/js/frappe/ui/toolbar/search_utils.js,New,إضافة
 apps/frappe/frappe/public/js/frappe/roles_editor.js,Add all roles,إضافة جميع الأدوار
 DocType: Transaction Log,Transaction Hash,تجزئة المعاملة
@@ -3260,7 +3260,7 @@ DocType: Note,Seen By,تمت رؤيته بواسطة
 apps/frappe/frappe/public/js/frappe/views/translation_manager.js,Update Translations,تحديث الترجمات
 DocType: OAuth Client,"If checked, users will not see the Confirm Access dialog.",إذا تم تحديده ، فلن يرى المستخدمون مربع حوار تأكيد الوصول.
 DocType: System Settings,Minimum Password Score,الحد الأدنى من نقاط كلمة المرور
-DocType: Data Migration Mapping Detail,Child Table Mapping,الطفل الجدول الخرائط
+DocType: Data Migration Mapping Detail,Child Table Mapping,ملف الجدول الخرائط
 apps/frappe/frappe/public/js/frappe/desk.js,Email Account setup please enter your password for: ,إعداد حساب البريد الإلكتروني ، الرجاء إدخال كلمة المرور لـ:
 apps/frappe/frappe/database/database.py,Too many writes in one request. Please send smaller requests,يكتب الكثير في طلب واحد. الرجاء ارسال طلبات أصغر
 DocType: Social Login Key,Salesforce,قوة المبيعات
@@ -3410,7 +3410,7 @@ apps/frappe/frappe/config/users_and_permissions.py,Check which Documents are rea
 apps/frappe/frappe/utils/nestedset.py,Root {0} cannot be deleted,لا يمكن حذف الجذر {0}
 apps/frappe/frappe/www/login.py,Mobile Number,رقم الهاتف المحمول
 apps/frappe/frappe/email/receive.py,Invalid User Name or Support Password. Please rectify and try again.,اسم المستخدم غير صحيح أو كلمة مرور الدعم. يرجى تصحيح والمحاولة مرة أخرى.
-apps/frappe/frappe/public/js/frappe/list/list_view.js,Customize,يعدل أو يكيف
+apps/frappe/frappe/public/js/frappe/list/list_view.js,Customize, تعديل
 DocType: Company History,Year,عام
 DocType: Communication Link,Communication Link,حلقة اتصال
 apps/frappe/frappe/public/js/frappe/ui/toolbar/awesome_bar.js,Calculate,حساب
@@ -3580,7 +3580,7 @@ DocType: S3 Backup Settings,eu-west-2,الاتحاد الأوروبي الغرب
 apps/frappe/frappe/integrations/doctype/webhook/webhook.py,Check Request URL,تحقق من طلب URL
 apps/frappe/frappe/public/js/frappe/ui/toolbar/navbar.html,About,حول
 apps/frappe/frappe/config/customization.py,Custom Translations,الترجمات المخصصة
-apps/frappe/frappe/templates/print_formats/standard_macros.html,number,الرقم
+apps/frappe/frappe/templates/print_formats/standard_macros.html,sr,الرقم
 apps/frappe/frappe/config/settings.py,"Language, Date and Time settings",إعدادات اللغة والتاريخ والوقت
 apps/frappe/frappe/model/document.py,none of,لا شيء من
 DocType: Desktop Icon,Page,صفحة
