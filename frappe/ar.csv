@@ -639,7 +639,7 @@ DocType: File,Is Home Folder,هو مجلد المنزل
 apps/frappe/frappe/core/doctype/data_export/exporter.py,Type:,نوع:
 DocType: Post,Is Pinned,مثبت
 apps/frappe/frappe/public/js/frappe/form/form.js,No permission to '{0}' {1},ليس هناك إذن لـ &#39;{0}&#39; {1}
-DocType: Patch Log,Patch Log,سجل التصحيح
+DocType: Patch Log,Patch Log,سجل التعديل
 DocType: Print Format,Print Format Builder,منشئ تنسيق الطباعة
 DocType: System Settings,"If enabled, all users can login from any IP Address using Two Factor Auth. This can also be set only for specific user(s) in User Page",في حالة التمكين ، يمكن لجميع المستخدمين تسجيل الدخول من أي عنوان IP باستخدام المصادقة الثنائية. يمكن أيضًا تعيين هذا فقط لمستخدم (مستخدمين) معينين في صفحة المستخدم
 apps/frappe/frappe/utils/data.py,only.,فقط.
@@ -762,7 +762,7 @@ apps/frappe/frappe/www/me.html,Edit Profile,تعديل الملف الشخصي
 DocType: Prepared Report,Ref Report DocType,المرجع تقرير DocType
 DocType: OAuth Bearer Token,Expires In,ينتهي في
 apps/frappe/frappe/core/doctype/comment/comment.py,{0} mentioned you in a comment in {1},{0} ذكرتك في تعليق في {1}
-apps/frappe/frappe/core/page/dashboard/dashboard.js,Edit...,تصحيح...
+apps/frappe/frappe/core/page/dashboard/dashboard.js,Edit...,تعديل...
 DocType: DocField,hidden,مخفي
 DocType: Blog Post,Rich Text,النص الغني
 DocType: Contact,Accounts Manager,مدير الحسابات
@@ -947,7 +947,7 @@ apps/frappe/frappe/public/js/frappe/views/reports/report_view.js,Y Axis Fields,�
 apps/frappe/frappe/integrations/doctype/s3_backup_settings/s3_backup_settings.js,S3 Backup complete!,S3 النسخ الاحتياطي كاملة!
 apps/frappe/frappe/public/js/frappe/list/list_sidebar.html,Kanban,كانبان
 DocType: Report,Is Standard,هو المعيار
-DocType: Workflow State,Edit,تصحيح
+DocType: Workflow State,Edit,تعديل
 apps/frappe/frappe/templates/includes/login/login.js,Invalid Login. Try again.,تسجيل الدخول غير صالح. حاول مرة أخري.
 DocType: Comment,Attachment,المرفق
 DocType: Comment,Reference Document Type,نوع المستند المرجعي
@@ -1187,7 +1187,7 @@ apps/frappe/frappe/core/doctype/communication/communication.js,Mark as Spam,عل
 DocType: Data Migration Plan,Data Migration Plan,خطة ترحيل البيانات
 DocType: Email Queue Recipient,Email Queue Recipient,قائمة انتظار البريد الإلكتروني المستلم
 DocType: DocField,Do not allow user to change after set the first time,لا تسمح للمستخدم بتغيير بعد تعيين أول مرة
-DocType: Patch Log,Patch,تصحيح
+DocType: Patch Log,Patch,تعديل
 DocType: Notification,Send alert if date matches this field's value,إرسال تنبيه إذا كان التاريخ يطابق قيمة هذا الحقل
 apps/frappe/frappe/templates/emails/auto_reply.html,Reference: {0} {1},المرجع: {0} {1}
 DocType: DocType,Default Print Format,تنسيق الطباعة الافتراضي
