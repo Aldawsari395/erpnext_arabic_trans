@@ -2274,7 +2274,7 @@ apps/frappe/frappe/public/js/frappe/list/list_view.js,{0} items selected,{0} ا�
 apps/frappe/frappe/templates/includes/comments/comments.html,Leave a Comment,اترك تعليقا
 DocType: Stripe Settings,Stripe Settings,إعدادات الشريط
 DocType: System Settings,Background Workers,عمال الخلفية
-apps/frappe/frappe/public/js/frappe/form/templates/print_layout.html,Customize...,يعدل أو يكيف...
+apps/frappe/frappe/public/js/frappe/form/templates/print_layout.html,Customize...,...تعديل
 DocType: Dashboard Chart,Last Year,العام الماضي
 DocType: Data Migration Mapping,Remote Objectname,اسم كائن بعيد
 DocType: System Settings,yyyy-mm-dd,YYYY-MM-DD
@@ -3410,7 +3410,7 @@ apps/frappe/frappe/config/users_and_permissions.py,Check which Documents are rea
 apps/frappe/frappe/utils/nestedset.py,Root {0} cannot be deleted,لا يمكن حذف الجذر {0}
 apps/frappe/frappe/www/login.py,Mobile Number,رقم الهاتف المحمول
 apps/frappe/frappe/email/receive.py,Invalid User Name or Support Password. Please rectify and try again.,اسم المستخدم غير صحيح أو كلمة مرور الدعم. يرجى تصحيح والمحاولة مرة أخرى.
-apps/frappe/frappe/public/js/frappe/list/list_view.js,Customize,يعدل أو يكيف
+apps/frappe/frappe/public/js/frappe/list/list_view.js,Customize, تعديل
 DocType: Company History,Year,عام
 DocType: Communication Link,Communication Link,حلقة اتصال
 apps/frappe/frappe/public/js/frappe/ui/toolbar/awesome_bar.js,Calculate,حساب
