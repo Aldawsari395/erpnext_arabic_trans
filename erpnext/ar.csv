@@ -1496,7 +1496,7 @@ DocType: Subscription,Current Invoice Start Date,تاريخ بدء الفاتو�
 DocType: Purchase Invoice Item,Item,بند
 DocType: Program Enrollment Tool,Get Students From,الحصول على الطلاب من
 DocType: Amazon MWS Settings,Always synch your products from Amazon MWS before synching the Orders details,قم بمزامنة منتجاتك دائمًا من Amazon MWS قبل مزامنة تفاصيل الطلبات
-DocType: Leave Block List,Leave Block List Name,اترك اسم قائمة الحظر
+DocType: Leave Block List,Leave Block List Name,اسم قائمة الإجازات المحظورة
 apps/erpnext/erpnext/accounts/doctype/sales_invoice/sales_invoice.py,"Could not update stock, invoice contains drop shipping item.",تعذّر تحديث المخزون ، تحتوي الفاتورة على عنصر انخفاض الشحن.
 DocType: Asset Maintenance Log,Completion Date,موعد الإكمال
 DocType: Purchase Receipt,Rate at which supplier's currency is converted to company's base currency,معدل تحويل عملة المورد إلى عملة الشركة الأساسية
@@ -2672,7 +2672,7 @@ apps/erpnext/erpnext/stock/doctype/delivery_note/delivery_note.py,Note: Item {0}
 DocType: Plant Analysis,Collection Datetime,مجموعة التاريخ
 apps/erpnext/erpnext/selling/report/sales_partner_target_variance_based_on_item_group/item_group_wise_sales_target_variance.py,Total Achieved,إجمالي الإنجاز
 DocType: Course Topic,Topic,موضوع
-DocType: Employee Promotion,Promotion Date,تاريخ الترويج
+DocType: Employee Promotion,Promotion Date,تاريخ الترقية
 DocType: Tax Withholding Category,Account Details,تفاصيل الحساب
 DocType: POS Profile,Allow user to edit Rate,السماح للمستخدم بتحرير السعر
 DocType: Healthcare Settings,Result Emailed,النتيجة إرسالها بالبريد الإلكتروني
@@ -7333,7 +7333,7 @@ apps/erpnext/erpnext/accounts/doctype/tax_rule/tax_rule.py,Tax Rule Conflicts wi
 DocType: Fiscal Year,Year End Date,تاريخ نهاية السنة
 apps/erpnext/erpnext/utilities/activation.py,Create Leads,إنشاء العروض
 apps/erpnext/erpnext/accounts/report/profitability_analysis/profitability_analysis.js,Show zero values,إظهار قيم الصفر
-DocType: Employee Onboarding,Employee Onboarding,موظف على متن الطائرة
+DocType: Employee Onboarding,Employee Onboarding,تأهيل الموظف
 DocType: POS Closing Voucher,Period End Date,تاريخ انتهاء الفترة
 apps/erpnext/erpnext/selling/page/sales_funnel/sales_funnel.js,Sales Opportunities by Source,فرص المبيعات حسب المصدر
 DocType: Department,The first Leave Approver in the list will be set as the default Leave Approver.,سيتم تعيين &quot;موافقة الإجازة&quot; الأول في القائمة على أنها &quot;موافقة الإجازة&quot; الافتراضية.
