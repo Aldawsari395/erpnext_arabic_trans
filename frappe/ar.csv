@@ -1503,7 +1503,7 @@ apps/frappe/frappe/templates/emails/recurring_document_failed.html,and uncheck D
 apps/frappe/frappe/public/js/frappe/socketio_client.js,File Upload in Progress. Please try again in a few moments.,تحميل الملف قيد التقدم. يرجى المحاولة مرة أخرى في بضع لحظات.
 DocType: Address,Postal Code,الرمز البريدي
 DocType: Workflow Action,Workflow State,دولة سير العمل
-apps/frappe/frappe/public/js/frappe/list/list_sidebar.html,Tree,شجرة
+apps/frappe/frappe/public/js/frappe/list/list_sidebar.html,Tree,تفرع
 DocType: Milestone,Milestone Tracker,معلما المقتفي
 apps/frappe/frappe/limits.py,Your subscription will expire tomorrow.,سوف اشتراكك تنتهي غدا.
 DocType: Address,Address Title,عنوان عنوان
@@ -1946,7 +1946,7 @@ DocType: Contact,Unsubscribed,غير مشترك به
 DocType: DocPerm,DocPerm,DocPerm
 apps/frappe/frappe/core/doctype/doctype/doctype.py,Fold can not be at the end of the form,أضعاف لا يمكن أن يكون في نهاية النموذج
 DocType: Print Settings,Server IP,خادم IP
-apps/frappe/frappe/public/js/frappe/views/treeview.js,{0} Tree,{0} شجرة
+apps/frappe/frappe/public/js/frappe/views/treeview.js,{0} Tree,{0} تفرع
 apps/frappe/frappe/www/login.html,Send Password,إرسال كلمة المرور
 DocType: Event,All Day,طوال اليوم
 apps/frappe/frappe/core/doctype/data_export/exporter.py,Parent is the name of the document to which the data will get added to.,الأصل هو اسم المستند الذي ستتم إضافة البيانات إليه.
