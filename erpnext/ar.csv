@@ -5316,7 +5316,7 @@ DocType: Cashier Closing,To TIme,الى وقت
 DocType: Daily Work Summary Group User,Daily Work Summary Group User,مستخدم مجموعة ملخص العمل اليومي
 DocType: Fiscal Year Company,Fiscal Year Company,شركة السنة المالية
 apps/erpnext/erpnext/stock/doctype/item_alternative/item_alternative.py,Alternative item must not be same as item code,يجب ألا يكون العنصر البديل هو نفسه رمز العنصر
-DocType: Payment Schedule,Payment Term,مصطلح الدفع
+DocType: Payment Schedule,Payment Term,فترة الدفع
 DocType: Quality Action,Quality Review,مراجعة جودة
 apps/erpnext/erpnext/manufacturing/report/bom_stock_report/bom_stock_report.py,In Stock Qty,الكمية المتوفرة
 DocType: Material Request Plan Item,Customer Provided,العملاء المقدمة
