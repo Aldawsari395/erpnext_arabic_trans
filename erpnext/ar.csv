@@ -1662,7 +1662,7 @@ apps/erpnext/erpnext/setup/setup_wizard/data/industry_type.py,Soap & Detergent,�
 ,Purchase Analytics,تحليلات الشراء
 apps/erpnext/erpnext/buying/doctype/request_for_quotation/request_for_quotation.js,Opportunity,فرصة
 DocType: Employee,Prefered Contact Email,البريد الإلكتروني المفضل للاتصال
-apps/erpnext/erpnext/config/help.py,Opening Accounting Balance,فتح الرصيد المحاسبي
+apps/erpnext/erpnext/config/help.py,Opening Accounting Balance,فتح رصيدالمحاسبه
 DocType: POS Profile,[Select],[تحديد]
 DocType: Stock Reconciliation,MAT-RECO-.YYYY.-,MAT-ريكو-.YYYY.-
 DocType: Tally Migration,Master Data,البيانات الرئيسية
