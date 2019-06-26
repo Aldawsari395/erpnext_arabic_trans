@@ -1095,7 +1095,7 @@ DocType: OAuth Client,Grant Type,نوع المنحة
 apps/frappe/frappe/core/doctype/file/file.py,Same file has already been attached to the record,تم بالفعل إرفاق نفس الملف بالسجل
 DocType: Assignment Rule,"Simple Python Expression, Example: status == 'Open' and type == 'Bug'",تعبير Python البسيط ، مثال: status == &#39;Open&#39; واكتب == &#39;Bug&#39;
 apps/frappe/frappe/templates/includes/integrations/stripe_checkout.js,Processing...,معالجة...
-apps/frappe/frappe/public/js/frappe/views/reports/report_view.js,Report:,أبلغ عن:
+apps/frappe/frappe/public/js/frappe/views/reports/report_view.js,Report:,تقرير عن:
 apps/frappe/frappe/integrations/doctype/slack_webhook_url/slack_webhook_url.py,Slack Webhook Error,سلاك خطأ Webhook
 DocType: Blog Post,Published On,نشرت على
 DocType: Address Template,"<h4>Default Template</h4>
