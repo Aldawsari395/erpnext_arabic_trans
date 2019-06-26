@@ -3589,7 +3589,7 @@ DocType: Issue,Via Customer Portal,عبر بوابة العملاء
 DocType: Work Order Operation,Planned Start Time,وقت البدء المخطط
 apps/erpnext/erpnext/controllers/buying_controller.py,{0} {1} is {2},{0} {1} هو {2}
 apps/erpnext/erpnext/assets/doctype/asset/asset.py,Number of Depreciations Booked cannot be greater than Total Number of Depreciations,لا يمكن أن يكون عدد الإهلاكات المحجوزة أكبر من إجمالي عدد الإهلاكات
-apps/erpnext/erpnext/accounts/doctype/shareholder/shareholder.js,Share Ledger,موازنة
+apps/erpnext/erpnext/accounts/doctype/shareholder/shareholder.js,Share Ledger,موازنة الحصه
 DocType: Journal Entry,Accounts Payable,حسابات قابلة للدفع
 DocType: Job Offer,Select Terms and Conditions,حدد الشروط والأحكام
 apps/erpnext/erpnext/crm/doctype/lead/lead.py,Ends On date cannot be before Next Contact Date.,لا يمكن أن يكون تاريخ الانتهاء قبل تاريخ الاتصال التالي.
