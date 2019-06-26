@@ -6145,7 +6145,7 @@ DocType: Products Settings,"If checked, the Home page will be the default Item G
 DocType: Crop,Row Spacing UOM,تباعد الصف UOM
 apps/erpnext/erpnext/hr/doctype/leave_application/leave_application.py,Only Leave Applications with status 'Approved' and 'Rejected' can be submitted,لا يمكن إرسال سوى ترك الطلبات ذات الحالة &quot;موافق&quot; و &quot;مرفوض&quot;
 apps/erpnext/erpnext/stock/doctype/item_price/item_price.js,Import in Bulk,استيراد بكميات كبيرة
-DocType: Material Request,Terms and Conditions Content,الشروط والأحكام المحتوى
+بDocType: Material Request,Terms and Conditions Content,محتوى الشروط والاحكام
 apps/erpnext/erpnext/buying/report/procurement_tracker/procurement_tracker.py,Purchase Order Amount(Company Currency),مبلغ أمر الشراء (عملة الشركة)
 DocType: Healthcare Practitioner,Hospital,مستشفى
 ,Stock Analytics,تحليلات الأسهم
