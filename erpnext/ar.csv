@@ -7190,7 +7190,7 @@ apps/erpnext/erpnext/healthcare/page/appointment_analytic/appointment_analytic.j
 DocType: Workstation Working Hour,Workstation Working Hour,محطة العمل ساعة العمل
 apps/erpnext/erpnext/config/agriculture.py,Analytics,تحليلات
 DocType: Maintenance Team Member,Maintenance Role,دور الصيانة
-apps/erpnext/erpnext/config/buying.py,Terms and Conditions Template,الشروط والأحكام قالب
+apps/erpnext/erpnext/config/buying.py,Terms and Conditions Template,قالب الشروط والاحكام
 DocType: Fee Schedule Program,Fee Schedule Program,برنامج جدول الرسوم
 apps/erpnext/erpnext/www/lms.py,Course {0} does not exist.,الدورة التدريبية {0} غير موجودة.
 DocType: Project Task,Make Timesheet,جعل الجدول الزمني
