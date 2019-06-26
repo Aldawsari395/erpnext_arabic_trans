@@ -665,7 +665,7 @@ apps/frappe/frappe/public/js/frappe/form/print.js,Orientation,اتجاه
 apps/frappe/frappe/public/js/frappe/form/templates/form_sidebar.html,Assign,تعيين
 apps/frappe/frappe/core/page/permission_manager/permission_manager_help.html,For example if you cancel and amend INV004 it will become a new document INV004-1. This helps you to keep track of each amendment.,على سبيل المثال ، إذا قمت بإلغاء وتعديل INV004 ، فستصبح وثيقة جديدة INV004-1. هذا يساعدك على تتبع كل تعديل.
 DocType: Auto Email Report,From Date Field,من حقل التاريخ
-apps/frappe/frappe/custom/doctype/custom_script/custom_script.js,Add script for Child Table,إضافة البرنامج النصي لجدول الطفل
+apps/frappe/frappe/custom/doctype/custom_script/custom_script.js,Add script for Child Table,إضافة البرنامج النصي لجدول ملف
 apps/frappe/frappe/templates/includes/comments/comments.py,View Comment,عرض التعليق
 DocType: DocField,Ignore User Permissions,تجاهل أذونات المستخدم
 apps/frappe/frappe/public/js/frappe/form/footer/timeline.js,{0} from {1} to {2},{0} من {1} إلى {2}
@@ -1032,7 +1032,7 @@ apps/frappe/frappe/templates/includes/search_template.html,Type something in the
 DocType: Success Action,Next Actions HTML,الإجراءات التالية HTML
 DocType: Dashboard Chart,Sum,مجموع
 DocType: Workflow,Don't Override Status,لا تتجاوز الحالة
-DocType: DocType,Is Child Table,هو الجدول الطفل
+DocType: DocType,Is Child Table,هو الجدول ملف
 apps/frappe/frappe/printing/page/print_format_builder/print_format_builder.js,Custom HTML,HTML مخصص
 apps/frappe/frappe/model/document.py,{0} must be after {1},{0} يجب أن يكون بعد {1}
 DocType: Auto Repeat,Half-Yearly,نصف سنوي
@@ -1114,7 +1114,7 @@ apps/frappe/frappe/website/doctype/help_article/templates/help_article.html,More
 DocType: Assignment Rule,Assignment Rules,قواعد الاحالة
 DocType: System Settings,Allow Login using Mobile Number,السماح بتسجيل الدخول باستخدام رقم الجوال
 apps/frappe/frappe/public/js/frappe/utils/pretty_date.js,{0} minutes ago,قبل {0} دقيقة
-apps/frappe/frappe/public/js/frappe/views/treeview.js,Tree view not available for {0},عرض الشجرة غير متاح لـ {0}
+apps/frappe/frappe/public/js/frappe/views/treeview.js,Tree view not available for {0},عرض تفرع غير متاح لـ {0}
 apps/frappe/frappe/public/js/frappe/ui/toolbar/awesome_bar.js,List a document type,سرد نوع المستند
 DocType: Kanban Board Column,Indicator,مؤشر
 DocType: Customize Form,Sort Field,فرز الحقل
@@ -1569,7 +1569,7 @@ apps/frappe/frappe/printing/doctype/print_settings/print_settings.py,Failed to c
 apps/frappe/frappe/public/js/frappe/form/controls/date.js,Date {0} must be in format: {1},يجب أن يكون التاريخ {0} بالتنسيق: {1}
 apps/frappe/frappe/core/page/usage_info/usage_info.js,Renew / Upgrade,تجديد / ترقية
 apps/frappe/frappe/core/doctype/communication/communication.py,Cannot create a {0} against a child document: {1},لا يمكن إنشاء {0} مقابل مستند فرعي: {1}
-apps/frappe/frappe/custom/doctype/custom_script/custom_script.js,Select Child Table,حدد جدول الطفل
+apps/frappe/frappe/custom/doctype/custom_script/custom_script.js,Select Child Table,حدد جدول ملف
 DocType: Activity Log,Link DocType,رابط DocType
 apps/frappe/frappe/public/js/frappe/form/print.js,Cannot have multiple printers mapped to a single print format.,لا يمكن تعيين طابعات متعددة على تنسيق طباعة واحد.
 apps/frappe/frappe/core/doctype/file/test_file.py,Test_Folder,Test_Folder
@@ -3107,7 +3107,7 @@ DocType: Communication,User Tags,علامات المستخدم
 DocType: Auto Repeat,"To add dynamic subject, use jinja tags like
 
 <div><pre><code>New {{ doc.doctype }} #{{ doc.name }}</code></pre></div>","لإضافة موضوع ديناميكي ، استخدم علامات jinja مثل <div style=""""><pre style=""""> <code>New {{ doc.doctype }} #{{ doc.name }}</code> </pre> </div>"
-apps/frappe/frappe/public/js/frappe/views/treeview.js,Add Child,أضف الطفل
+apps/frappe/frappe/public/js/frappe/views/treeview.js,Add Child,أضف ملف
 apps/frappe/frappe/public/js/frappe/ui/toolbar/search_utils.js,New,إضافة
 apps/frappe/frappe/public/js/frappe/roles_editor.js,Add all roles,إضافة جميع الأدوار
 DocType: Transaction Log,Transaction Hash,تجزئة المعاملة
@@ -3260,7 +3260,7 @@ DocType: Note,Seen By,تمت رؤيته بواسطة
 apps/frappe/frappe/public/js/frappe/views/translation_manager.js,Update Translations,تحديث الترجمات
 DocType: OAuth Client,"If checked, users will not see the Confirm Access dialog.",إذا تم تحديده ، فلن يرى المستخدمون مربع حوار تأكيد الوصول.
 DocType: System Settings,Minimum Password Score,الحد الأدنى من نقاط كلمة المرور
-DocType: Data Migration Mapping Detail,Child Table Mapping,الطفل الجدول الخرائط
+DocType: Data Migration Mapping Detail,Child Table Mapping,ملف الجدول الخرائط
 apps/frappe/frappe/public/js/frappe/desk.js,Email Account setup please enter your password for: ,إعداد حساب البريد الإلكتروني ، الرجاء إدخال كلمة المرور لـ:
 apps/frappe/frappe/database/database.py,Too many writes in one request. Please send smaller requests,يكتب الكثير في طلب واحد. الرجاء ارسال طلبات أصغر
 DocType: Social Login Key,Salesforce,قوة المبيعات

@@ -7162,7 +7162,7 @@ DocType: Employee,Health Insurance Provider,مزود التأمين الصحي
 apps/erpnext/erpnext/setup/doctype/item_group/item_group.js,This is a root item group and cannot be edited.,هذه مجموعة عناصر جذر ولا يمكن تحريرها.
 DocType: Production Plan,Projected Qty Formula,الصيغة الكمية المتوقعة
 DocType: Payment Order,Payment Order Reference,مرجع طلب الدفع
-apps/erpnext/erpnext/healthcare/page/appointment_analytic/appointment_analytic.js,Tree Type,نوع الشجرة
+apps/erpnext/erpnext/healthcare/page/appointment_analytic/appointment_analytic.js,Tree Type,نوع تفرع
 DocType: Activity Type,Default Costing Rate,معدل التكلفة الافتراضي
 DocType: Vital Signs,Constipated,ممسك
 DocType: Salary Detail,Default Amount,المبلغ الافتراضي
