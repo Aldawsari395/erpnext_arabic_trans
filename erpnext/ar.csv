@@ -2328,7 +2328,7 @@ apps/erpnext/erpnext/patches/v11_0/add_default_dispatch_notification_template.py
 apps/erpnext/erpnext/accounts/doctype/payment_entry/payment_entry.py,"Payment Type must be one of Receive, Pay and Internal Transfer",يجب أن يكون نوع الدفع من الاستلام والدفع والتحويل الداخلي
 DocType: HR Settings,Payroll Settings,إعدادات الرواتب
 DocType: GST HSN Code,GST HSN Code,GST HSN Code
-DocType: Period Closing Voucher,Period Closing Voucher,قسيمة إغلاق الفترة
+DocType: Period Closing Voucher,Period Closing Voucher,فترة إغلاق القسيمة
 apps/erpnext/erpnext/education/report/student_and_guardian_contact_details/student_and_guardian_contact_details.py,Guardian2 Name,اسم الجارديان 2
 apps/erpnext/erpnext/stock/doctype/stock_reconciliation/stock_reconciliation.py,Please enter Expense Account,الرجاء إدخال حساب المصاريف
 DocType: Employee,Resignation Letter Date,تاريخ خطاب الاستقالة
