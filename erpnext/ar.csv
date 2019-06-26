@@ -2520,7 +2520,7 @@ DocType: Accounts Settings,Determine Address Tax Category From,تحديد عنو
 apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py,Identifying Decision Makers,تحديد صناع القرار
 apps/erpnext/erpnext/accounts/doctype/invoice_discounting/invoice_discounting.js,Get Invocies,الحصول على الدعوات
 DocType: Tally Migration,Is Day Book Data Imported,يتم استيراد بيانات دفتر اليوم
-,Sales Partners Commission,مبيعات شركاء لجنة
+,Sales Partners Commission,عمولة شركاء البيع
 apps/erpnext/erpnext/setup/setup_wizard/operations/install_fixtures.py,Legal,قانوني
 DocType: Loan Application,Required by Date,مطلوب حسب التاريخ
 DocType: Quiz Result,Quiz Result,نتيجة مسابقة
