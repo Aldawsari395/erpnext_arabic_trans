@@ -1656,7 +1656,7 @@ apps/erpnext/erpnext/hr/doctype/employee/employee.py,User {0} does not exist,ا�
 apps/erpnext/erpnext/accounts/doctype/account/chart_of_accounts/verified/standard_chart_of_accounts_with_account_number.py,Loans and Advances (Assets),القروض والسلفيات (الأصول)
 apps/erpnext/erpnext/accounts/doctype/journal_entry/journal_entry.py,Row {0}: Please check 'Is Advance' against Account {1} if this is an advance entry.,الصف {0}: يرجى التحقق من &quot;هل تقدم&quot; مقابل الحساب {1} إذا كان هذا إدخالًا مسبقًا.
 DocType: Leave Control Panel,Designation (optional),التعيين (اختياري)
-DocType: Salary Slip,Total Principal Amount,إجمالي المبلغ الرئيسي
+DocTyحe: Salary Slip,Total Principal Amount,إجمالي المبلغ الرئيسي
 DocType: Opportunity,Customer / Lead Address,عنوان العميل / القيادة
 apps/erpnext/erpnext/setup/setup_wizard/data/industry_type.py,Soap & Detergent,الصابون والمنظفات
 ,Purchase Analytics,تحليلات الشراء
@@ -3589,7 +3589,7 @@ DocType: Issue,Via Customer Portal,عبر بوابة العملاء
 DocType: Work Order Operation,Planned Start Time,وقت البدء المخطط
 apps/erpnext/erpnext/controllers/buying_controller.py,{0} {1} is {2},{0} {1} هو {2}
 apps/erpnext/erpnext/assets/doctype/asset/asset.py,Number of Depreciations Booked cannot be greater than Total Number of Depreciations,لا يمكن أن يكون عدد الإهلاكات المحجوزة أكبر من إجمالي عدد الإهلاكات
-apps/erpnext/erpnext/accounts/doctype/shareholder/shareholder.js,Share Ledger,حصة ليدجر
+apps/erpnext/erpnext/accounts/doctype/shareholder/shareholder.js,Share Ledger,موازنة
 DocType: Journal Entry,Accounts Payable,حسابات قابلة للدفع
 DocType: Job Offer,Select Terms and Conditions,حدد الشروط والأحكام
 apps/erpnext/erpnext/crm/doctype/lead/lead.py,Ends On date cannot be before Next Contact Date.,لا يمكن أن يكون تاريخ الانتهاء قبل تاريخ الاتصال التالي.
