@@ -1361,7 +1361,7 @@ apps/frappe/frappe/public/js/frappe/ui/toolbar/about.js,Frappe Framework,إطا�
 apps/frappe/frappe/desk/page/activity/activity_row.html,Commented on {0}: {1},تم التعليق على {0}: {1}
 DocType: Property Setter,Set Value,ضبط القيمة
 apps/frappe/frappe/core/doctype/version/version.js,Show all Versions,عرض كل الإصدارات
-DocType: Custom DocPerm,Submit,خضع
+DocType: Custom DocPerm,Submit,أرسال
 apps/frappe/frappe/public/js/frappe/form/print.js,This may get printed on multiple pages,قد تتم طباعة هذا على صفحات متعددة
 DocType: User,Get your globally recognized avatar from Gravatar.com,احصل على الصورة الرمزية المعترف بها عالميًا من Gravatar.com
 DocType: GCalendar Settings,Client ID,معرف العميل
