@@ -3508,7 +3508,7 @@ DocType: User,Karma,الكرمة
 apps/frappe/frappe/website/doctype/website_theme/website_theme.js,Rounded Corners,زوايا مدورة
 DocType: Data Migration Run,Remote ID,معرف البعيد
 apps/frappe/frappe/public/js/frappe/form/sidebar/share.js,Shared with everyone,مشترك مع الجميع
-DocType: Assignment Rule,Disabled,معاق
+DocType: Assignment Rule,Disabled,معطل
 apps/frappe/frappe/public/js/frappe/list/bulk_operations.js,Cannot delete {0},لا يمكن حذف {0}
 DocType: DocField,HTML,HTML
 apps/frappe/frappe/public/js/frappe/form/linked_with.js,Linked With,متعلق ب
