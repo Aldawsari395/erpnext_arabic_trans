@@ -5675,7 +5675,7 @@ DocType: Sales Person,Name and Employee ID,الاسم ومعرف الموظف
 DocType: Subscription,Generate Invoice At Beginning Of Period,توليد الفاتورة في بداية الفترة
 DocType: Item,Minimum Order Qty,الحد الأدنى للطلب الكمية
 DocType: Leave Block List,Block Holidays on important days.,منع العطلات في الأيام الهامة.
-apps/erpnext/erpnext/public/js/conf.js,Documentation,كابل بيانات
+apps/erpnext/erpnext/public/js/conf.js,Documentation,مجموعة بيانات
 DocType: Item Alternative,Alternative Item Code,رمز البند البديل
 DocType: Sales Partner,Partner website,موقع الشريك
 DocType: Loan,Applicant,طالب وظيفة
