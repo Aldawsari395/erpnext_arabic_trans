@@ -2182,7 +2182,7 @@ apps/frappe/frappe/core/page/dashboard/dashboard.js,{0} Dashboard,{0} لوحة �
 DocType: Dashboard Chart,Last Quarter,الربع الأخير
 apps/frappe/frappe/email/doctype/notification/notification.py,"Not allowed to attach {0} document,
 				please enable Allow Print For {0} in Print Settings",غير مسموح بإرفاق مستند {0} ، يرجى تمكين السماح للطباعة {0} في إعدادات الطباعة
-DocType: DocField,Attach,يربط
+DocType: DocField,Attach,ارفاق
 DocType: OAuth Authorization Code,Scopes,نطاقات
 apps/frappe/frappe/config/settings.py,Deleted Documents,المستندات المحذوفة
 DocType: Workflow Action,Workflow Action,سير العمل
