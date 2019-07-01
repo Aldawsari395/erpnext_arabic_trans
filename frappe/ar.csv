@@ -2460,7 +2460,7 @@ DocType: Workflow State,facetime-video,فيس تايم الفيديو
 apps/frappe/frappe/core/doctype/system_settings/system_settings.py,"Please setup SMS before setting it as an authentication method, via SMS Settings",يرجى إعداد الرسائل القصيرة قبل تعيينها كطريقة للمصادقة ، عبر إعدادات الرسائل القصيرة
 DocType: Newsletter,Test Email Address,اختبار عنوان البريد الإلكتروني
 apps/frappe/frappe/core/doctype/version/version_view.html,Rows Added,تمت إضافة الصفوف
-DocType: DocType,Setup,اقامة
+DocType: DocType,Setup,ضبط
 apps/frappe/frappe/public/js/frappe/views/interaction.js,{0} created successfully,تم إنشاء {0} بنجاح
 apps/frappe/frappe/www/update-password.html,New Password,كلمة السر الجديدة
 apps/frappe/frappe/email/doctype/email_account/email_account.py,Leave this conversation,اترك هذه المحادثة
