@@ -1508,7 +1508,7 @@ DocType: Bin,Reserved Qty for Production,الكمية المحجوزة للإن�
 DocType: Asset,Quality Manager,مدير الجودة
 apps/erpnext/erpnext/healthcare/doctype/healthcare_service_unit_type/healthcare_service_unit_type.py,"Configure Item Fields like UOM, Item Group, Description and No of Hours.",قم بتكوين حقول العناصر مثل UOM ومجموعة العناصر والوصف وعدد الساعات.
 apps/erpnext/erpnext/hr/doctype/department/department_tree.js,New Department,قسم جديد
-DocType: Employee,Job Applicant,طالب عمل
+DocType: Employee,Job Applicant,متقدم للوظيفة
 apps/erpnext/erpnext/accounts/doctype/opening_invoice_creation_tool/opening_invoice_creation_tool.js,Create Invoices,إنشاء الفواتير
 DocType: Purchase Invoice Item,Purchase Order Item,طلب شراء البند
 apps/erpnext/erpnext/config/settings.py,Data Import and Export,استيراد وتصدير البيانات
@@ -2477,7 +2477,7 @@ apps/erpnext/erpnext/config/retail.py,To make Customer based incentive schemes.,
 ,Purchase Register,سجل الشراء
 DocType: Depreciation Schedule,Schedule Date,تاريخ الجدول الزمني
 DocType: Packing Slip,Package Weight Details,حزمة الوزن التفاصيل
-DocType: Job Applicant,Job Opening,فرص عمل
+DocType: Job Applicant,Job Opening,فرص وظيفية
 apps/erpnext/erpnext/buying/report/procurement_tracker/procurement_tracker.py,Actual Cost,التكلفة الفعلية
 apps/erpnext/erpnext/controllers/accounts_controller.py,Total advance ({0}) against Order {1} cannot be greater than the Grand Total ({2}),لا يمكن أن يكون إجمالي التقدم ({0}) مقابل الأمر {1} أكبر من الإجمالي الكلي ({2})
 apps/erpnext/erpnext/stock/doctype/item/item.py,Item Variants updated,تم تحديث متغيرات العنصر
@@ -3126,7 +3126,7 @@ apps/erpnext/erpnext/accounts/report/budget_variance_report/budget_variance_repo
 DocType: Sales Order,Partly Delivered,سلمت جزئيا
 DocType: Item,Maintain Stock,الحفاظ على الأوراق المالية
 DocType: Job Card,Started Time,وقت البدء
-apps/erpnext/erpnext/config/hr.py,Shifts and Fleet Management,نوبات عمل وإدارة المركبات
+apps/erpnext/erpnext/config/hr.py,Shifts and Fleet Management,نوبات العمل وإدارة الأسطول
 DocType: Item,Average time taken by the supplier to deliver,متوسط الوقت الذي يستغرقه المورد للتسليم
 DocType: Stock Entry,Per Transferred,لكل نقل
 DocType: Packing Slip,Indicates that the package is a part of this delivery (Only Draft),يشير إلى أن الحزمة جزء من عملية التسليم هذه (مسودة فقط)
@@ -5469,7 +5469,7 @@ apps/erpnext/erpnext/controllers/buying_controller.py,Accepted + Rejected Qty mu
 apps/erpnext/erpnext/config/hr.py,Expense Claims,مطالبات بالنفقات
 DocType: Bank Account,Address HTML,عنوان HTML
 ,Stock Projected Qty,الكمية المتوقعة للسهم
-DocType: Employee Onboarding,Job Offer,عرض عمل
+DocType: Employee Onboarding,Job Offer,عرض وظيفي
 apps/erpnext/erpnext/accounts/doctype/purchase_invoice/purchase_invoice.py,No Remarks,لم يكن هناك ملاحظات
 DocType: Sales Invoice,Change Amount,تغيير المبلغ
 apps/erpnext/erpnext/selling/page/point_of_sale/point_of_sale.js,Write Off Amount,شطب المبلغ
